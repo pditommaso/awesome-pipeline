@@ -1,7 +1,7 @@
 Awesome Pipeline
 ================
 
-A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 * Pipeline toolkits
   * [Bpipe](https://code.google.com/p/bpipe/) - A tool for running and managing bioinformatics pipelines
