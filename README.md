@@ -9,6 +9,7 @@ Pipeline toolkits
 * [Bpipe](https://code.google.com/p/bpipe/) - Tool for running and managing bioinformatics pipelines.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
+* [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
 * [Luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs.
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducibile and scalable bioinformatics pipelines. 
