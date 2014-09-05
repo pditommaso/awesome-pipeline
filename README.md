@@ -6,6 +6,7 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 Pipeline toolkits
 ------------------
 
+* [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
 * [Bpipe](https://code.google.com/p/bpipe/) - Tool for running and managing bioinformatics pipelines.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
