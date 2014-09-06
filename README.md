@@ -22,7 +22,8 @@ Pipeline toolkits
 Genomics pipelines
 --------------------
 
-* [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - Validated and scalable variant calling and RNA-seq analysis.
-* [piper](https://github.com/Molmed/piper) - A pipeline built on top of GATK Queue.
+* [Bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - Validated and scalable variant calling and RNA-seq analysis.
+* [Piper](https://github.com/Molmed/piper) - A pipeline built on top of GATK Queue.
+* [SparkSeq](https://bitbucket.org/mwiewiorka/sparkseq) - A tool for the interactive genomic data analysis with nucleotide precision.
 
 
