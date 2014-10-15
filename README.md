@@ -13,6 +13,7 @@ Pipeline toolkits
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
 * [Luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs.
+* [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Makeflow is a workflow engine for executing large complex workflows on clusters.
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducibile and scalable bioinformatics pipelines. 
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - A wrapper for the creation of Makefiles, enabling massive parallelization.
