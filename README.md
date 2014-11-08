@@ -22,6 +22,7 @@ Pipeline toolkits
 * [Scoop](https://code.google.com/p/scoop/) - Scalable COncurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
+* [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
   
 Genomics pipelines
 --------------------
