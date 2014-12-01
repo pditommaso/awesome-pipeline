@@ -18,6 +18,7 @@ Pipeline toolkits
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducibile and scalable bioinformatics pipelines. 
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - A wrapper for the creation of Makefiles, enabling massive parallelization.
+* [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
 * [Scoop](https://code.google.com/p/scoop/) - Scalable COncurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
