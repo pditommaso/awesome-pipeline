@@ -24,6 +24,7 @@ Pipeline toolkits
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
+* [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
   
 Genomics pipelines
 --------------------
