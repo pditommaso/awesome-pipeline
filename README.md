@@ -8,7 +8,6 @@ Pipeline toolkits
 
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
 * [Bpipe](https://code.google.com/p/bpipe/) - Tool for running and managing bioinformatics pipelines.
-* [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data
 * [Cluster flow](http://ewels.github.io/clusterflow/) - A command-line pipeline tool which uses common cluster managers to run bioinformatics analysis pipelines.
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
@@ -25,7 +24,15 @@ Pipeline toolkits
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
-  
+ 
+GUI based platforms 
+--------------------
+* [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
+* [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
+* [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
+* [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
+* [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
+
 Genomics pipelines
 --------------------
 
