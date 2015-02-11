@@ -30,6 +30,7 @@ GUI based platforms
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
+* [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 
