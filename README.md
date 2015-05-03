@@ -35,6 +35,12 @@ GUI based platforms
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 
+Workflow languages 
+-------------------
+* [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
+* [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide/)
+* [Workflow Definition Language](https://github.com/broadinstitute/wdl)
+
 Genomics pipelines
 --------------------
 
