@@ -26,6 +26,7 @@ Pipeline toolkits
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
+* [Workflow 4ever](http://www.wf4ever-project.org/)
  
 GUI based platforms 
 --------------------
