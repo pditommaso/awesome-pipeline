@@ -37,6 +37,7 @@ GUI based platforms
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
+* [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
 
 Workflow languages 
 -------------------
