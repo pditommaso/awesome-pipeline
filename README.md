@@ -27,7 +27,7 @@ Pipeline toolkits
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - A wrapper for the creation of Makefiles, enabling massive parallelization.
 * [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
-* [Scoop](https://code.google.com/p/scoop/) - Scalable COncurrent Operations in Python.
+* [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
