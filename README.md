@@ -6,6 +6,7 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 Pipeline toolkits
 ------------------
 
+* [Airflow](https://github.com/airbnb/airflow) - A python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
 * [Bpipe](https://code.google.com/p/bpipe/) - Tool for running and managing bioinformatics pipelines.
