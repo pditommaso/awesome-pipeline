@@ -19,6 +19,7 @@ Pipeline toolkits
 * [NiPype](https://github.com/nipy/nipype) - Workflows and interfaces for neuroimaging packages
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
+* [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - A wrapper for the creation of Makefiles, enabling massive parallelization.
 * [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
