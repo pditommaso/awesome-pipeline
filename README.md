@@ -10,7 +10,7 @@ Pipeline toolkits
 * [Airflow](https://github.com/airbnb/airflow) - A python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
-* [Bpipe](https://code.google.com/p/bpipe/) - Tool for running and managing bioinformatics pipelines.
+* [Bpipe](https://github.com/ssadedin/bpipe/) - Tool for running and managing bioinformatics pipelines.
 * [Cluster flow](http://ewels.github.io/clusterflow/) - A command-line pipeline tool which uses common cluster managers to run bioinformatics analysis pipelines.
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
