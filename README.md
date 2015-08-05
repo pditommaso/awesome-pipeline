@@ -15,6 +15,7 @@ Pipeline toolkits
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
+* [Joblib](https://pythonhosted.org/joblib/index.html) - Set of tools to provide lightweight pipelining in Python.
 * [Luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Makeflow is a workflow engine for executing large complex workflows on clusters.
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
