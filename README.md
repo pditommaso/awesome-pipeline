@@ -20,6 +20,7 @@ Pipeline toolkits
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Makeflow is a workflow engine for executing large complex workflows on clusters.
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducibile and scalable bioinformatics pipelines.
+* [Nix](https://nixos.org/nix/) - Purely functional package manager for the NixOS Linux distribution.  Can be repurposed to drive data analysis workflows.
 * [NiPype](https://github.com/nipy/nipype) - Workflows and interfaces for neuroimaging packages
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
