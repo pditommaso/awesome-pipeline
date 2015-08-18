@@ -3,8 +3,8 @@ Awesome Pipeline
 
 A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
-Pipeline toolkits
-------------------
+Pipeline frameworks & libraries
+--------------------------------
 
 * [ActionChain](http://docs.stackstorm.com/actionchain.html) - A workflow system for simple linear success/failure workflows, included in the StackStorm framework.
 * [Airflow](https://github.com/airbnb/airflow) - A python-based workflow system created by AirBnb.
@@ -37,8 +37,9 @@ Pipeline toolkits
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
 * [Workflow 4ever](http://www.wf4ever-project.org/)
  
-GUI based platforms 
+Workflow platforms 
 --------------------
+* [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
@@ -54,11 +55,11 @@ Workflow languages
 * [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide/)
 * [Workflow Definition Language](https://github.com/broadinstitute/wdl)
 
-Genomics pipelines
---------------------
+Literate programming (aka interactive notebooks) 
+---------------------------------------------------
+* [Beaker](http://beakernotebook.com/) Notebook-style development environment for working interactively with large and complex datasets. 
+* [IPython](https://ipython.org/) A rich architecture for interactive computing.
+* [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 
-* [Bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - Validated and scalable variant calling and RNA-seq analysis.
-* [Piper](https://github.com/Molmed/piper) - A pipeline built on top of GATK Queue.
-* [SparkSeq](https://bitbucket.org/mwiewiorka/sparkseq) - A tool for the interactive genomic data analysis with nucleotide precision.
 
 
