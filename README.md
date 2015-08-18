@@ -7,6 +7,7 @@ Pipeline toolkits
 ------------------
 
 * [ActionChain](http://docs.stackstorm.com/actionchain.html) - A workflow system for simple linear success/failure workflows, included in the StackStorm framework.
+* [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
 * [Airflow](https://github.com/airbnb/airflow) - A python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
