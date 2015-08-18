@@ -43,7 +43,6 @@ Workflow platforms
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
-* [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
@@ -60,6 +59,7 @@ Literate programming (aka interactive notebooks)
 * [Beaker](http://beakernotebook.com/) Notebook-style development environment for working interactively with large and complex datasets. 
 * [IPython](https://ipython.org/) A rich architecture for interactive computing.
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
+* [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 
 
 
