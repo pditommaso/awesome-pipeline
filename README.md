@@ -49,7 +49,7 @@ Workflow platforms
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
-* [WINGS](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
+* [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 
 Workflow languages 
 -------------------
