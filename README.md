@@ -49,12 +49,22 @@ Workflow platforms
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
+* [WINGS](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 
 Workflow languages 
 -------------------
 * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
-* [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide/)
+* [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide)
 * [Workflow Definition Language](https://github.com/broadinstitute/wdl)
+* [Yet Another Workflow Language](http://www.yawlfoundation.org)
+
+Workflow standardization initiatives
+---------------------------
+* [Workflow 4 Ever Initiative](http://www.wf4ever-project.org)
+* [Workflow 4 Ever workflow research object model](http://wf4ever.github.io/ro)
+* [Workflow Patterns Initiative](http://www.workflowpatterns.com)
+* [Workflow Patterns Library](http://www.workflowpatterns.com/patterns)
+* [ResearchObject.org](http://www.researchobject.org)
 
 Literate programming (aka interactive notebooks) 
 ---------------------------------------------------
