@@ -72,6 +72,8 @@ Literate programming (aka interactive notebooks)
 * [IPython](https://ipython.org/) A rich architecture for interactive computing.
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
+* [Wakari](https://wakari.io/) - Web-based Python Data Analysis.
+* [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
 
 
 
