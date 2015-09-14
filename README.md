@@ -41,12 +41,12 @@ Pipeline frameworks & libraries
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
-
-Workflow platforms
+ 
+Workflow platforms 
 --------------------
 * [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
-* [Chipster](http://chipster.csc.fi) - Open source platform for data analysis.
+* [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
@@ -54,7 +54,7 @@ Workflow platforms
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
 * [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 
-Workflow languages
+Workflow languages 
 -------------------
 * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
 * [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide)
@@ -69,11 +69,14 @@ Workflow standardization initiatives
 * [Workflow Patterns Library](http://www.workflowpatterns.com/patterns)
 * [ResearchObject.org](http://www.researchobject.org)
 
-Literate programming (aka interactive notebooks)
+Literate programming (aka interactive notebooks) 
 ---------------------------------------------------
-* [Beaker](http://beakernotebook.com/) Notebook-style development environment.
+* [Beaker](http://beakernotebook.com/) Notebook-style development environment. 
 * [IPython](https://ipython.org/) A rich architecture for interactive computing.
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [Wakari](https://wakari.io/) - Web-based Python Data Analysis.
 * [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
+
+
+
