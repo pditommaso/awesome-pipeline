@@ -39,6 +39,7 @@ Pipeline frameworks & libraries
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
+* [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
  
@@ -48,8 +49,7 @@ Workflow platforms
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
-* [JobTree](https://github.com/benedictpaten/jobTree) - JobTree distributed pipeline workflow manager (mostly for genomics)
-* [Pegasus](http://pegasus.isi.edu) - Workflow Management System
+* [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
