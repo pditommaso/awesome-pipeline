@@ -81,6 +81,6 @@ Literate programming (aka interactive notebooks)
 
 Other projects
 ----------------
-[HPC Grid Runner](http://hpcgridrunner.github.io/)
+* [HPC Grid Runner](http://hpcgridrunner.github.io/)
 
 
