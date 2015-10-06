@@ -79,5 +79,8 @@ Literate programming (aka interactive notebooks)
 * [Wakari](https://wakari.io/) - Web-based Python Data Analysis.
 * [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
 
+Other projects
+----------------
+[HPC Grid Runner](http://hpcgridrunner.github.io/)
 
 
