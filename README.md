@@ -39,6 +39,7 @@ Pipeline frameworks & libraries
 * [Sake](http://tonyfischetti.github.io/sake/) - Self-documenting build automation tool.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
+* [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
