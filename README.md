@@ -10,6 +10,7 @@ Pipeline frameworks & libraries
 * [Airflow](https://github.com/airbnb/airflow) - Python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
 * [Antha](https://www.antha-lang.org/) - High-level language for biology.
+* [Bcbio](bcb.io) - Community built tools for biological data analysis.
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
 * [Bpipe](https://github.com/ssadedin/bpipe/) - Tool for running and managing bioinformatics pipelines.
 * [Cluster flow](http://ewels.github.io/clusterflow/) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
@@ -18,6 +19,7 @@ Pipeline frameworks & libraries
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
+* [GATK](https://www.broadinstitute.org/gatk/) - The Genome Analysis Toolkit.
 * [Joblib](https://pythonhosted.org/joblib/index.html) - Set of tools to provide lightweight pipelining in Python.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
@@ -37,6 +39,7 @@ Pipeline frameworks & libraries
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
 * [Ruigi](https://github.com/kirillseva/ruigi) - Pipeline tool for R, inspired by Luigi.
 * [Sake](http://tonyfischetti.github.io/sake/) - Self-documenting build automation tool.
+* [Seqware](https://seqware.github.io/) - Next-Generation Sequencing Analysis on the Grid and in the Cloud.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
@@ -44,26 +47,30 @@ Pipeline frameworks & libraries
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
- 
-Workflow platforms 
+
+Workflow platforms
 --------------------
 * [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
 * [Apache Iravata](https://airavata.apache.org/) - Framework for executing and managing computational workflows on distributed computing resources.
+* [BioDT](http://www.biodatomics.com/) - Genomics analysis and bioinformatics tools.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
-* [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
+* [Chipster](http://chipster.csc.fi) - Open source platform for data analysis.
+* [DNANexus](https://wiki.dnanexus.com/API-Specification-v1.0.0/Workflows-and-Analyses) - Illumina's workflow system.
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
+* [SHIWA](https://www.shiwa-workflow.eu/) - SHaring Interoperable Workflows for large-scale scientific simulations on available DCIs.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
 * [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 
-Workflow languages 
+Workflow languages
 -------------------
 * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
 * [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide)
 * [Workflow Definition Language](https://github.com/broadinstitute/wdl)
 * [Yet Another Workflow Language](http://www.yawlfoundation.org)
+* [Oozie](https://oozie.apache.org/)
 
 Workflow standardization initiatives
 ---------------------------
@@ -73,9 +80,9 @@ Workflow standardization initiatives
 * [Workflow Patterns Library](http://www.workflowpatterns.com/patterns)
 * [ResearchObject.org](http://www.researchobject.org)
 
-Literate programming (aka interactive notebooks) 
+Literate programming (aka interactive notebooks)
 ---------------------------------------------------
-* [Beaker](http://beakernotebook.com/) Notebook-style development environment. 
+* [Beaker](http://beakernotebook.com/) Notebook-style development environment.
 * [IPython](https://ipython.org/) A rich architecture for interactive computing.
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
@@ -85,5 +92,3 @@ Literate programming (aka interactive notebooks)
 Other projects
 ----------------
 * [HPC Grid Runner](http://hpcgridrunner.github.io/)
-
-
