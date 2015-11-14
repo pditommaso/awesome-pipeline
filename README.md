@@ -15,13 +15,12 @@ Pipeline frameworks & libraries
 * [Cluster flow](http://ewels.github.io/clusterflow/) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
-* [DoIt] (https://github.com/pydoit/doit) - Highly generalized task-management and automation in Python.
-* [Drake] (https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
+* [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
 * [Joblib](https://pythonhosted.org/joblib/index.html) - Set of tools to provide lightweight pipelining in Python.
-* [Ketrew] (https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application. 
+* [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application. 
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
@@ -40,12 +39,10 @@ Pipeline frameworks & libraries
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
 * [Ruigi](https://github.com/kirillseva/ruigi) - Pipeline tool for R, inspired by Luigi.
 * [Sake](http://tonyfischetti.github.io/sake/) - Self-documenting build automation tool.
-* [Scons] (http://www.scons.org/) - Python library focused on C/C++ builds.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
-* [Shake] (https://github.com/ndmitchell/shake) - Define robust build systems akin to GNU Make using Haskell.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
-* [stpipe] (http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
+* [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
@@ -87,6 +84,17 @@ Literate programming (aka interactive notebooks)
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [Wakari](https://wakari.io/) - Web-based Python Data Analysis.
 * [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
+
+
+Build automation tools
+----------------------
+* [Bazel](http://bazel.io/) - Build software just as engineers do at Google.
+* [DoIt](https://github.com/pydoit/doit) - Highly generalized task-management and automation in Python.
+* [Gradle](http://gradle.org/) - Unified cross platforms builds.
+* [Scons](http://www.scons.org/) - Python library focused on C/C++ builds.
+* [Shake](https://github.com/ndmitchell/shake) - Define robust build systems akin to GNU Make using Haskell.
+* [Make](https://www.gnu.org/software/make/) - The GNU Make build system.
+
 
 Other projects
 ----------------
