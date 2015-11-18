@@ -99,5 +99,6 @@ Build automation tools
 Other projects
 ----------------
 * [HPC Grid Runner](http://hpcgridrunner.github.io/)
+* [noWorkflow](https://github.com/gems-uff/noworkflow) - Supporting infrastructure to run scientific experiments without a scientific workflow management system, and still get things like provenance.
 
 
