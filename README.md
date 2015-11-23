@@ -55,6 +55,7 @@ Workflow platforms
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
+* [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
