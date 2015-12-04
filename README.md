@@ -32,7 +32,8 @@ Pipeline frameworks & libraries
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
 * [PyFlow](https://github.com/Illumina/pyflow) - Lightweight parallel task engine.
-* [Pwrake](https://github.com/masa16/Pwrake/) - Parallel workflow extension for Rake
+* [Pwrake](https://github.com/masa16/Pwrake/) - Parallel workflow extension for Rake.
+* [Qsubsec](https://github.com/alastair-droop/qsubsec) - Simple tokenised template system for SGE.
 * [Rabix](https://github.com/rabix/rabix) - Python-based workflow toolkit based on the Common Workflow Language and Docker.
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - Wrapper for the creation of Makefiles, enabling massive parallelization.
 * [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows.
