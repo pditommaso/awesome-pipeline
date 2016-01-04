@@ -57,6 +57,7 @@ Workflow platforms
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
+* [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization using distributed computing computing (cluster, grid, cloud).
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
@@ -67,6 +68,7 @@ Workflow languages
 -------------------
 * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
 * [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide)
+* [OpenMOLE DSL](http://www.openmole.org/current/Documentation_Language.html)
 * [Workflow Definition Language](https://github.com/broadinstitute/wdl)
 * [Yet Another Workflow Language](http://www.yawlfoundation.org)
 
