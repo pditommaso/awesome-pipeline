@@ -55,6 +55,7 @@ Workflow platforms
 --------------------
 * [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
 * [Apache Iravata](https://airavata.apache.org/) - Framework for executing and managing computational workflows on distributed computing resources.
+* [Arvados](http://arvados.org) - A container based workflow platform.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
