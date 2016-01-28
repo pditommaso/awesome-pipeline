@@ -23,6 +23,7 @@ Pipeline frameworks & libraries
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
 * [Joblib](https://pythonhosted.org/joblib/index.html) - Set of tools to provide lightweight pipelining in Python.
 * [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application. 
+* [Longbow](http://www.hecbiosim.ac.uk/longbow) - Job proxying tool for biomolecular simulations.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
