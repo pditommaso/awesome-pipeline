@@ -38,6 +38,7 @@ Pipeline frameworks & libraries
 * [Pwrake](https://github.com/masa16/Pwrake/) - Parallel workflow extension for Rake.
 * [Qsubsec](https://github.com/alastair-droop/qsubsec) - Simple tokenised template system for SGE.
 * [Rabix](https://github.com/rabix/rabix) - Python-based workflow toolkit based on the Common Workflow Language and Docker.
+* [remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - Wrapper for the creation of Makefiles, enabling massive parallelization.
 * [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
