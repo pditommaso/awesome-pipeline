@@ -15,6 +15,7 @@ Pipeline frameworks & libraries
 * [Cluster flow](http://ewels.github.io/clusterflow/) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
+* [Cuneiform](https://github.com/joergen7/cuneiform) - Advanced functional workflow language and framework, implemented in Erlang.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
