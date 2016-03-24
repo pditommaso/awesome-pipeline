@@ -65,6 +65,7 @@ Workflow platforms
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
 * [Cromwell](https://github.com/broadinstitute/cromwell) - Workflow Management System geared towards scientific workflows from the Broad Institute.
+* [Fireworks](https://github.com/materialsproject/fireworks) - For calculation workflows, with a centralized workflow server. Features dynamic workflows, failure-detection routines, and built-in tools and execution modes for running high-throughput computations.
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization using distributed computing computing (cluster, grid, cloud).
