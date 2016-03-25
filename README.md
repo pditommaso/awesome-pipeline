@@ -67,6 +67,7 @@ Workflow platforms
 * [Cromwell](https://github.com/broadinstitute/cromwell) - Workflow Management System geared towards scientific workflows from the Broad Institute.
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
+* [NextflowWorkbench](http://workflow.campagnelab.org) - Integrated development environment for Nextflow, Docker and Reusable Workflows, for beginners and experts.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
