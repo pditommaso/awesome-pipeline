@@ -22,6 +22,7 @@ Pipeline frameworks & libraries
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
+* [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
 * [Hive](https://github.com/Ensembl/ensembl-hive) - System for creating and running pipelines on a distributed compute resource.
 * [Joblib](https://pythonhosted.org/joblib/index.html) - Set of tools to provide lightweight pipelining in Python.
 * [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application. 
