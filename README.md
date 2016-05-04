@@ -42,6 +42,7 @@ Pipeline frameworks & libraries
 * [PyFlow](https://github.com/Illumina/pyflow) - Lightweight parallel task engine.
 * [PypeFlow](https://github.com/PacificBiosciences/pypeFLOW) - Lightweight workflow engine for data analysis scripting.
 * [Pwrake](https://github.com/masa16/Pwrake/) - Parallel workflow extension for Rake.
+* [Qdo](https://bitbucket.org/berkeleylab/qdo) - Lightweight high-throughput queuing system for workflows with many small tasks to perform.
 * [Qsubsec](https://github.com/alastair-droop/qsubsec) - Simple tokenised template system for SGE.
 * [Rabix](https://github.com/rabix/rabix) - Python-based workflow toolkit based on the Common Workflow Language and Docker.
 * [Remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R.
