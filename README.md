@@ -51,6 +51,7 @@ Pipeline frameworks & libraries
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
 * [Ruigi](https://github.com/kirillseva/ruigi) - Pipeline tool for R, inspired by Luigi.
 * [Sake](http://tonyfischetti.github.io/sake/) - Self-documenting build automation tool.
+* [SciLuigi](https://github.com/pharmbio/sciluigi) - Helper library for writing flexible scientific workflows in Luigi.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
