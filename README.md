@@ -37,7 +37,6 @@ Pipeline frameworks & libraries
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducibile and scalable bioinformatics pipelines.
 * [NiPype](https://github.com/nipy/nipype) - Workflows and interfaces for neuroimaging packages.
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data.
-* [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
 * [PyFlow](https://github.com/Illumina/pyflow) - Lightweight parallel task engine.
@@ -76,6 +75,7 @@ Workflow platforms
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [NextflowWorkbench](http://workflow.campagnelab.org) - Integrated development environment for Nextflow, Docker and Reusable Workflows.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
+* [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
