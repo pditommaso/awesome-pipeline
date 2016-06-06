@@ -78,6 +78,7 @@ Workflow platforms
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
+* [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
