@@ -108,6 +108,7 @@ Literate programming (aka interactive notebooks)
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [Wakari](https://wakari.io/) - Web-based Python Data Analysis.
 * [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
+* [binder](http://mybinder.org/) - "Turn a GitHub repo into a collection of interactive notebooks powered by Jupyter and Kubernetes"
 
 
 Build automation tools
