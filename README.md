@@ -103,7 +103,7 @@ Workflow standardization initiatives
 Literate programming (aka interactive notebooks) 
 ---------------------------------------------------
 * [Beaker](http://beakernotebook.com/) Notebook-style development environment. 
-* [binder](http://mybinder.org/) - Turn a GitHub repo into a collection of interactive notebooks powered by Jupyter and Kubernetes
+* [Binder](http://mybinder.org/) - Turn a GitHub repo into a collection of interactive notebooks powered by Jupyter and Kubernetes
 * [IPython](https://ipython.org/) A rich architecture for interactive computing.
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
