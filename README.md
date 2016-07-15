@@ -13,7 +13,7 @@ Pipeline frameworks & libraries
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
 * [Bpipe](https://github.com/ssadedin/bpipe/) - Tool for running and managing bioinformatics pipelines.
 * [Briefly](https://github.com/bloomreach/briefly) - Python Meta-programming Library for Job Flow Control.
-* [Cluster flow](http://ewels.github.io/clusterflow/) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
+* [Cluster Flow](http://clusterflow.io) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
 * [Clusterjob](https://github.com/monajemi/clusterjob) - Automated reproducibility, and hassle-free submission of computational jobs to clusters.
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
