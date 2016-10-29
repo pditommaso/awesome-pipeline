@@ -18,6 +18,7 @@ Pipeline frameworks & libraries
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
+* [Cromwell](https://github.com/broadinstitute/cromwell) - Workflow Management System geared towards scientific workflows from the Broad Institute.
 * [Cuneiform](https://github.com/joergen7/cuneiform) - Advanced functional workflow language and framework, implemented in Erlang.
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
@@ -72,7 +73,6 @@ Workflow platforms
 * [Arvados](http://arvados.org) - A container based workflow platform.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
-* [Cromwell](https://github.com/broadinstitute/cromwell) - Workflow Management System geared towards scientific workflows from the Broad Institute.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
