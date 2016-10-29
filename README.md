@@ -19,6 +19,7 @@ Pipeline frameworks & libraries
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
 * [Cuneiform](https://github.com/joergen7/cuneiform) - Advanced functional workflow language and framework, implemented in Erlang.
+* [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
