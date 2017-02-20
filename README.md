@@ -45,6 +45,7 @@ Pipeline frameworks & libraries
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducibile and scalable bioinformatics pipelines.
 * [NiPype](https://github.com/nipy/nipype) - Workflows and interfaces for neuroimaging packages.
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data.
+* [Pachyderm](https://www.pachyderm.io/pps.html) - A containerized, version-controlled data lake.
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
 * [PyFlow](https://github.com/Illumina/pyflow) - Lightweight parallel task engine.
