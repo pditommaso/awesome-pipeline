@@ -116,7 +116,6 @@ Literate programming (aka interactive notebooks)
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html) - R Markdown notebook literate programming environment.
-* [Wakari](https://wakari.io/) - Web-based Python Data Analysis.
 * [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
 
 
@@ -136,4 +135,10 @@ Other projects
 * [HPC Grid Runner](http://hpcgridrunner.github.io/)
 * [noWorkflow](https://github.com/gems-uff/noworkflow) - Supporting infrastructure to run scientific experiments without a scientific workflow management system, and still get things like provenance.
 
+
+Related lists
+--------------
+* [Awesome streaming](https://github.com/manuzhang/awesome-streaming) - Curated list of awesome streaming frameworks, applications.
+* [Awesome ETL](https://github.com/pawl/awesome-etl) - Curated list of notable ETL (extract, transform, load) frameworks, libraries and software.
+* [Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
 
