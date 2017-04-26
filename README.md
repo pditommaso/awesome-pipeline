@@ -28,6 +28,7 @@ Pipeline frameworks & libraries
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
 * [Dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
+* [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows. 
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
 * [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
