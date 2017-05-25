@@ -91,8 +91,8 @@ Workflow platforms
 * [NextflowWorkbench](http://workflow.campagnelab.org) - Integrated development environment for Nextflow, Docker and Reusable Workflows.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
-* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - Workflow platform with a graphical design environment.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
+* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - Workflow platform with a graphical design environment.
 * [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
