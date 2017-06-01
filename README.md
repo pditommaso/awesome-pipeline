@@ -6,11 +6,11 @@ A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https
 Pipeline frameworks & libraries
 --------------------------------
 
-* [ActionChain](http://docs.stackstorm.com/actionchain.html) - A workflow system for simple linear success/failure workflows.
-* [Adage](https://github.com/diana-hep/adage) - Small package to describe workflows that are not completely known at definition time.
-* [Airflow](https://github.com/airbnb/airflow) - Python-based workflow system created by AirBnb.
+* [ActionChain](http://docs.stackstorm.com/actionchain.html) - A workflow system for simple linear success/failure workflows. [![GitHub stars](https://img.shields.io/github/stars/StackStorm/st2docs.svg?style=social&label=Star)](https://github.com/StackStorm/st2docs/blob/master/docs/source/actionchain.rst)
+* [Adage](https://github.com/diana-hep/adage) - Small package to describe workflows that are not completely known at definition time. [![GitHub stars](https://img.shields.io/github/stars/diana-hep/adage.svg?style=social&label=Star)](https://github.com/diana-hep/adage)
+* [Airflow](https://github.com/airbnb/airflow) - Python-based workflow system created by AirBnb. [![GitHub stars](https://img.shields.io/github/stars/airbnb/airflow.svg?style=social&label=Star)](https://github.com/airbnb/airflow)
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
-* [Antha](https://www.antha-lang.org/) - High-level language for biology.
+* [Antha](https://www.antha-lang.org/) - High-level language for biology. [![GitHub stars](https://img.shields.io/github/stars/antha-lang/antha.svg?style=social&label=Star)](https://github.com/antha-lang/antha)
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
 * [BioMake](https://github.com/evoldoers/biomake) - GNU-Make-like utility for managing builds and complex workflows.
 * [BioQueue](https://github.com/liyao001/BioQueue) - Explicit framework with web monitoring and resource estimation.
