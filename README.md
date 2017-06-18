@@ -25,10 +25,11 @@ Pipeline frameworks & libraries
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
 * [Cromwell](https://github.com/broadinstitute/cromwell) - Workflow Management System geared towards scientific workflows from the Broad Institute.
 * [Cuneiform](https://github.com/joergen7/cuneiform) - Advanced functional workflow language and framework, implemented in Erlang.
+* [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
+* [Dagr](https://github.com/fulcrumgenomics/dagr) - A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic GRaphs.
+* [Dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics.
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
-* [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
-* [Dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows. 
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
