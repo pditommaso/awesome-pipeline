@@ -72,9 +72,10 @@ Pipeline frameworks & libraries
 * [SciPipe](http://scipipe.org) - Library for writing Scientific Workflows in Go.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
-* [SoS](http://vatlab.github.io/SOS/) - Readable, interactive, cross-platform and cross-language data science workflow system
+* [SoS](http://vatlab.github.io/SOS/) - Readable, interactive, cross-platform and cross-language data science workflow system.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
+* [Sundial](https://github.com/gilt/sundial) - Jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling.
 * [Suro](https://github.com/Netflix/suro) - Java-based distributed pipeline from Netflix.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
