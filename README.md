@@ -149,7 +149,7 @@ Other projects
 ----------------
 * [HPC Grid Runner](http://hpcgridrunner.github.io/)
 * [noWorkflow](https://github.com/gems-uff/noworkflow) - Supporting infrastructure to run scientific experiments without a scientific workflow management system, and still get things like provenance.
-* [Reprozip](https://github.com/ViDA-NYU/reprozip) - Simplifies the process of creating reproducible experiments from command-line executions.
+* [Reprozip](https://www.reprozip.org/) - Simplifies the process of creating reproducible experiments from command-line executions.
 
 
 Related lists
