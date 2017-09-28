@@ -33,6 +33,7 @@ Pipeline frameworks & libraries
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Drake (R package)](https://github.com/wlandau-lilly/drake) - R-focused reproducibility and scalable high-performance computing with an easy interface.
 * [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows. 
+* [Fission Workflows](https://github.com/fission/fission-workflows) - A fast, lightweight workflow engine for serverless/FaaS functions.
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
 * [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
