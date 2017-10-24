@@ -132,6 +132,7 @@ Literate programming (aka interactive notebooks)
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html) - R Markdown notebook literate programming environment.
+* [SoS](https://vatlab.github.io/sos-docs/) - Readable, Interactive, Cross-platform, and Cross-language Workflow System.
 * [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
 
 
