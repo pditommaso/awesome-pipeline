@@ -74,7 +74,6 @@ Pipeline frameworks & libraries
 * [SciPipe](http://scipipe.org) - Library for writing Scientific Workflows in Go.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
-* [SoS](http://vatlab.github.io/SOS/) - Readable, interactive, cross-platform and cross-language data science workflow system.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
 * [Sundial](https://github.com/gilt/sundial) - Jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling.
@@ -132,7 +131,7 @@ Literate programming (aka interactive notebooks)
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html) - R Markdown notebook literate programming environment.
-* [SoS](https://vatlab.github.io/sos-docs/) - Readable, Interactive, Cross-platform, and Cross-language Workflow System.
+* [SoS](https://vatlab.github.io/sos-docs/) - Readable, interactive, cross-platform and cross-language data science workflow system.
 * [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
 
 
