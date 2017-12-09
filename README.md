@@ -93,6 +93,7 @@ Workflow platforms
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Butler](http://github.com/llevar/butler) - Framework for running scientific workflows on public and academic clouds.
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
+* [Clubber](https://bitbucket.org/bromberglab/clubber) - Cluster Load Balancer for Bioinformatics e-Resources.
 * [Digdag](https://www.digdag.io) - Workflow manager designed for simplicity, extensibility and collaboration.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
