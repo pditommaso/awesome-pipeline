@@ -31,7 +31,7 @@ Pipeline frameworks & libraries
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
-* [Drake (R package)](https://github.com/wlandau-lilly/drake) - R-focused reproducibility and scalable high-performance computing with an easy interface.
+* [drake R package](https://github.com/ropensci/drake) - reproducibility and high-performance computing with an easy R-focused interface.
 * [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows. 
 * [Fission Workflows](https://github.com/fission/fission-workflows) - A fast, lightweight workflow engine for serverless/FaaS functions.
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
