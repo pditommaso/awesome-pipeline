@@ -137,7 +137,10 @@ Literate programming (aka interactive notebooks)
 * [SoS](https://vatlab.github.io/sos-docs/) - Readable, interactive, cross-platform and cross-language data science workflow system.
 * [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
 
+Extract, transform, load (ETL)
+------------------------------
 
+* [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 
 Build automation tools
 ----------------------
