@@ -142,6 +142,11 @@ Extract, transform, load (ETL)
 
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 
+Application management workflows  
+---------------------------------- 
+* [Argo](https://github.com/argoproj/argo)
+* [Deis](https://deis.com/)
+
 Build automation tools
 ----------------------
 * [Bazel](http://bazel.io/) - Build software just as engineers do at Google.
