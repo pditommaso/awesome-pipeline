@@ -144,8 +144,8 @@ Extract, transform, load (ETL)
 
 Application management workflows  
 ---------------------------------- 
-* [Argo](https://github.com/argoproj/argo)
-* [Deis](https://deis.com/)
+* [Argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
+* [Deis](https://github.com/deis/deis) - Workflow system to create and manage applications on Kubernetes.
 
 Build automation tools
 ----------------------
