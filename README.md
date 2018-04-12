@@ -112,6 +112,10 @@ Workflow platforms
 * [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
 
+Workflow orchestration systems
+------------------------------
+* [Arteria](https://arteria-project.github.io/) - Event-driven sequencing center automation, which initiates workflows based on events.
+
 Workflow languages 
 -------------------
 * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
