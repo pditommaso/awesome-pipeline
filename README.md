@@ -66,6 +66,7 @@ Pipeline frameworks & libraries
 * [Qdo](https://bitbucket.org/berkeleylab/qdo) - Lightweight high-throughput queuing system for workflows with many small tasks to perform.
 * [Qsubsec](https://github.com/alastair-droop/qsubsec) - Simple tokenised template system for SGE.
 * [Rabix](https://github.com/rabix/rabix) - Python-based workflow toolkit based on the Common Workflow Language and Docker.
+* [Rain](https://github.com/substantic/rain) - Open-source distributed computational framework written in Rust.
 * [Ray](https://github.com/ray-project/ray) - Flexible, high-performance distributed Python execution framework.
 * [Reflow](https://github.com/grailbio/reflow) - Language and runtime for distributed, incremental data processing in the cloud.
 * [Remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R.
@@ -92,6 +93,7 @@ Workflow platforms
 --------------------
 * [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
 * [Apache Iravata](https://airavata.apache.org/) - Framework for executing and managing computational workflows on distributed computing resources.
+* [Arteria](https://arteria-project.github.io/) - Event-driven automation for sequencing centers. Initiates workflows based on events.
 * [Arvados](http://arvados.org) - A container based workflow platform.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Butler](http://github.com/llevar/butler) - Framework for running scientific workflows on public and academic clouds.
