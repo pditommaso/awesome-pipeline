@@ -91,6 +91,7 @@ Workflow platforms
 --------------------
 * [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
 * [Apache Iravata](https://airavata.apache.org/) - Framework for executing and managing computational workflows on distributed computing resources.
+* [Arteria](https://arteria-project.github.io/) - Event-driven automation for sequencing centers. Initiates workflows based on events.
 * [Arvados](http://arvados.org) - A container based workflow platform.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Butler](http://github.com/llevar/butler) - Framework for running scientific workflows on public and academic clouds.
