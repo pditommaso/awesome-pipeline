@@ -47,6 +47,7 @@ Pipeline frameworks & libraries
 * [Longbow](http://www.hecbiosim.ac.uk/longbow) - Job proxying tool for biomolecular simulations.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
+* [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow 
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
 * [MD Studio](https://github.com/MD-Studio/MDStudio) - Microservice based workflow engine. 
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
