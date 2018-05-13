@@ -143,7 +143,7 @@ Literate programming (aka interactive notebooks)
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html) - R Markdown notebook literate programming environment.
 * [SoS](https://vatlab.github.io/sos-docs/) - Readable, interactive, cross-platform and cross-language data science workflow system.
-* [Zeppelin](http://zeppelin-project.org/) - Web-based notebook that enables interactive data analytics.
+* [Zeppelin](https://zeppelin.apache.org/) - Web-based notebook that enables interactive data analytics.
 
 Extract, transform, load (ETL)
 ------------------------------
