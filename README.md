@@ -123,7 +123,7 @@ Workflow languages
 * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
 * [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide)
 * [OpenMOLE DSL](http://www.openmole.org/current/Documentation_Language.html)
-* [Workflow Definition Language](https://github.com/broadinstitute/wdl)
+* [Workflow Description Language](https://github.com/openwdl/wdl)
 * [Yet Another Workflow Language](http://www.yawlfoundation.org)
 
 Workflow standardization initiatives
