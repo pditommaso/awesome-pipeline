@@ -88,6 +88,7 @@ Pipeline frameworks & libraries
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
+* [Wallaroo](https://www.wallaroolabs.com/) - Framework for streaming data applications and algorithms that react to real-time events.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
  
 Workflow platforms 
