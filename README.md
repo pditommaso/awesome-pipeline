@@ -111,6 +111,7 @@ Workflow platforms
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - Workflow platform with a graphical design environment.
+* [Piper](https://github.com/creactiviti/piper) - Distributed workflow engine designed to be dead simple.
 * [Reana](https://github.com/reanahub/reana) - Platform for reusable research data analyses developed by CERN.
 * [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
