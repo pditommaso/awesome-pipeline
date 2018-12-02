@@ -154,6 +154,7 @@ Literate programming (aka interactive notebooks)
 Extract, transform, load (ETL)
 ------------------------------
 
+* [Cadence](https://github.com/uber/cadence) Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 
