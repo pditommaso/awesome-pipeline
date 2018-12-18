@@ -49,6 +49,7 @@ Pipeline frameworks & libraries
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
 * [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow 
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
+* [Martian](http://martian-lang.org/) - A language and framework for developing and executing complex computational pipelines.
 * [MD Studio](https://github.com/MD-Studio/MDStudio) - Microservice based workflow engine. 
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
 * [Moa](https://github.com/mfiers/Moa) - Lightweight workflows in bioinformatics.
