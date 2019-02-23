@@ -40,7 +40,7 @@ Pipeline frameworks & libraries
 * [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
 * [Hive](https://github.com/Ensembl/ensembl-hive) - System for creating and running pipelines on a distributed compute resource.
 * [HyperLoom](https://github.com/It4innovations/HyperLoom) - Platform for defining and executing workflow pipelines in large-scale distributed environments.
-* [Joblib](https://pythonhosted.org/joblib/index.html) - Set of tools to provide lightweight pipelining in Python.
+* [Joblib](https://joblib.readthedocs.io/en/latest/) - Set of tools to provide lightweight pipelining in Python.
 * [Jug](https://jug.readthedocs.io) - A task Based parallelization framework for Python.
 * [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application. 
 * [Kronos](https://github.com/jtaghiyar/kronos) - Workflow assembler for cancer genome analytics and informatics.
