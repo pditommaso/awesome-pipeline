@@ -54,7 +54,7 @@ Pipeline frameworks & libraries
 * [MD Studio](https://github.com/MD-Studio/MDStudio) - Microservice based workflow engine. 
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
 * [Moa](https://github.com/mfiers/Moa) - Lightweight workflows in bioinformatics.
-* [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducibile and scalable bioinformatics pipelines.
+* [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducible and scalable bioinformatics pipelines.
 * [NiPype](https://github.com/nipy/nipype) - Workflows and interfaces for neuroimaging packages.
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data.
 * [Pachyderm](https://www.pachyderm.io/) - Distributed and reproducible data pipelining and data management, built on the container ecosystem.
