@@ -84,7 +84,7 @@ Pipeline frameworks & libraries
 * [SciPipe](http://scipipe.org) - Library for writing Scientific Workflows in Go.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Seqtools](https://github.com/nlgranger/SeqTools) - Python library for lazy evaluation of pipelined transformations on indexable containers.
-* [Snakemake](https://bitbucket.org/johanneskoester/snakemake/wiki/Home) - Tool for running and managing bioinformatics pipelines.
+* [Snakemake](https://snakemake.readthedocs.io/en/stable) - Tool for running and managing bioinformatics pipelines.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stolos](https://github.com/sailthru/stolos) - Directed Acyclic Graph task dependency scheduler that simplify distributed pipelines.
 * [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
