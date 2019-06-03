@@ -33,7 +33,7 @@ Pipeline frameworks & libraries
 * [Doit](http://pydoit.org/) - Task management & automation tool.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Drake R package](https://github.com/ropensci/drake) - Reproducibility and high-performance computing with an easy R-focused interface. Unrelated to [Factual's Drake](https://github.com/factual/drake).
-* [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows. 
+* [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows.
 * [Fission Workflows](https://github.com/fission/fission-workflows) - A fast, lightweight workflow engine for serverless/FaaS functions.
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
@@ -43,16 +43,17 @@ Pipeline frameworks & libraries
 * [HyperLoom](https://github.com/It4innovations/HyperLoom) - Platform for defining and executing workflow pipelines in large-scale distributed environments.
 * [Joblib](https://joblib.readthedocs.io/en/latest/) - Set of tools to provide lightweight pipelining in Python.
 * [Jug](https://jug.readthedocs.io) - A task Based parallelization framework for Python.
-* [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application. 
+* [Kedro](https://github.com/quantumblacklabs/kedro) - Workflow development tool that helps you build data pipelines.
+* [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application.
 * [Kronos](https://github.com/jtaghiyar/kronos) - Workflow assembler for cancer genome analytics and informatics.
 * [Loom](https://github.com/StanfordBioinformatics/loom) - Tool for running bioinformatics workflows locally or in the cloud.
 * [Longbow](http://www.hecbiosim.ac.uk/longbow) - Job proxying tool for biomolecular simulations.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
-* [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow 
+* [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
 * [Martian](http://martian-lang.org/) - A language and framework for developing and executing complex computational pipelines.
-* [MD Studio](https://github.com/MD-Studio/MDStudio) - Microservice based workflow engine. 
+* [MD Studio](https://github.com/MD-Studio/MDStudio) - Microservice based workflow engine.
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
 * [Moa](https://github.com/mfiers/Moa) - Lightweight workflows in bioinformatics.
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducible and scalable bioinformatics pipelines.
@@ -96,8 +97,8 @@ Pipeline frameworks & libraries
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [Wallaroo](https://www.wallaroolabs.com/) - Framework for streaming data applications and algorithms that react to real-time events.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
- 
-Workflow platforms 
+
+Workflow platforms
 --------------------
 * [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
 * [Apache Iravata](https://airavata.apache.org/) - Framework for executing and managing computational workflows on distributed computing resources.
@@ -105,7 +106,7 @@ Workflow platforms
 * [Arvados](http://arvados.org) - A container based workflow platform.
 * [Biokepler](http://www.biokepler.org) - Bioinformatics Scientific Workflow for Distributed Analysis of Large-Scale Biological Data.
 * [Butler](http://github.com/llevar/butler) - Framework for running scientific workflows on public and academic clouds.
-* [Chipster](http://chipster.csc.fi) - Open source platform for data analysis. 
+* [Chipster](http://chipster.csc.fi) - Open source platform for data analysis.
 * [Clubber](https://bitbucket.org/bromberglab/clubber) - Cluster Load Balancer for Bioinformatics e-Resources.
 * [Digdag](https://www.digdag.io) - Workflow manager designed for simplicity, extensibility and collaboration.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
@@ -127,7 +128,7 @@ Workflow platforms
 * [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
 
-Workflow languages 
+Workflow languages
 -------------------
 * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
 * [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide)
@@ -144,9 +145,9 @@ Workflow standardization initiatives
 * [Workflow Patterns Library](http://www.workflowpatterns.com/patterns)
 * [ResearchObject.org](http://www.researchobject.org)
 
-Literate programming (aka interactive notebooks) 
+Literate programming (aka interactive notebooks)
 ---------------------------------------------------
-* [Beaker](http://beakernotebook.com/) Notebook-style development environment. 
+* [Beaker](http://beakernotebook.com/) Notebook-style development environment.
 * [Binder](http://mybinder.org/) - Turn a GitHub repo into a collection of interactive notebooks powered by Jupyter and Kubernetes
 * [IPython](https://ipython.org/) A rich architecture for interactive computing.
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
@@ -162,8 +163,8 @@ Extract, transform, load (ETL)
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 
-Application management workflows  
----------------------------------- 
+Application management workflows
+----------------------------------
 * [Argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
 * [Deis](https://github.com/deis/deis) - Workflow system to create and manage applications on Kubernetes.
 
