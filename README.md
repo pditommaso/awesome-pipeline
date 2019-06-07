@@ -176,6 +176,7 @@ Build automation tools
 * [Scons](http://www.scons.org/) - Python library focused on C/C++ builds.
 * [Shake](https://github.com/ndmitchell/shake) - Define robust build systems akin to GNU Make using Haskell.
 * [Make](https://www.gnu.org/software/make/) - The GNU Make build system.
+* [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 
 
 Other projects
