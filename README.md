@@ -113,7 +113,7 @@ Workflow platforms
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform) - General-purpose platform with many specialized domain extensions.
 * [NextflowWorkbench](http://workflow.campagnelab.org) - Integrated development environment for Nextflow, Docker and Reusable Workflows.
-* [omega|ml](https://github.com/omegaml/omegaml) - Data & model pipeline deployment for humans - integrated, scalable, extensible.
+* [omega|ml DataOps Platform](https://github.com/omegaml/omegaml) - Data & model pipeline deployment for humans - integrated, scalable, extensible.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
@@ -162,7 +162,6 @@ Extract, transform, load (ETL)
 * [Cadence](https://github.com/uber/cadence) Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
-* [omega|ml](https://github.com/omegaml/omegaml) - Scalable data pipelines straight from Jupyter Notebook.
 
 Application management workflows  
 ---------------------------------- 
