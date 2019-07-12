@@ -40,6 +40,7 @@ Pipeline frameworks & libraries
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
 * [Gc3pie](https://github.com/uzh/gc3pie) - Python libraries and tools for running applications on diverse Grids and clusters.
+* [Guix Workflow Language](https://guixwl.org/) - A workflow management language extension for GNU Guix
 * [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
 * [HyperLoom](https://github.com/It4innovations/HyperLoom) - Platform for defining and executing workflow pipelines in large-scale distributed environments.
 * [Joblib](https://joblib.readthedocs.io/en/latest/) - Set of tools to provide lightweight pipelining in Python.
