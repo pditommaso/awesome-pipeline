@@ -100,6 +100,7 @@ Pipeline frameworks & libraries
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [Wallaroo](https://www.wallaroolabs.com/) - Framework for streaming data applications and algorithms that react to real-time events.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
+* [Zenaton](https://zenaton.com) - Workflow engine for orchestrating jobs, data and events across your applications and third party services
 
 Workflow platforms
 --------------------
