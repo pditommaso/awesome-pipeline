@@ -30,6 +30,7 @@ Pipeline frameworks & libraries
 * [Dagr](https://github.com/fulcrumgenomics/dagr) - A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic GRaphs.
 * [Dagster](https://github.com/dagster-io/dagster) - Python-based API for defining DAGs that interfaces with popular workflow managers for building data applications.
 * [Dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics.
+* [Dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based operations in your data warehouse.
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
