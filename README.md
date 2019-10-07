@@ -169,9 +169,10 @@ Extract, transform, load (ETL)
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 
-Application management workflows
-----------------------------------
+Continuous Delivery workflows
+--------------------------------
 * [Argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
+* [CDS](https://github.com/ovh/cds) - A pipeline based Continuous Delivery Service written in Golang.
 * [Deis](https://github.com/deis/deis) - Workflow system to create and manage applications on Kubernetes.
 
 Build automation tools
