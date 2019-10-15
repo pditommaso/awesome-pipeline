@@ -65,6 +65,7 @@ Pipeline frameworks & libraries
 * [Parsl](https://github.com/Parsl/parsl) - Parallel Scripting Library.
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
+* [Porcupine](https://github.com/tweag/porcupine) - Haskell workflow tool to express and compose tasks (optionally cached) whose datasources and sinks are known ahead of time and rebindable, and which can expose arbitrary sets of parameters to the outside world.
 * [Prefect Core](https://docs.prefect.io/) - Python based workflow engine powering Prefect.
 * [PyFlow](https://github.com/Illumina/pyflow) - Lightweight parallel task engine.
 * [PypeFlow](https://github.com/PacificBiosciences/pypeFLOW) - Lightweight workflow engine for data analysis scripting.
