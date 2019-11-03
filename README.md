@@ -199,5 +199,6 @@ Related lists
 --------------
 * [Awesome streaming](https://github.com/manuzhang/awesome-streaming) - Curated list of awesome streaming frameworks, applications.
 * [Awesome ETL](https://github.com/pawl/awesome-etl) - Curated list of notable ETL (extract, transform, load) frameworks, libraries and software.
+* [Awesome workflow engines](https://github.com/meirwah/awesome-workflow-engines) - Curated list of awesome open source workflow engines.
 * [Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
 
