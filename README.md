@@ -26,6 +26,7 @@ Pipeline frameworks & libraries
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
 * [Cromwell](https://github.com/broadinstitute/cromwell) - Workflow Management System geared towards scientific workflows from the Broad Institute.
 * [Cuneiform](https://github.com/joergen7/cuneiform) - Advanced functional workflow language and framework, implemented in Erlang.
+* [Cylc](https://cylc.github.io/) - A workflow engine for cycling systems, originally developed for operational environmental forecasting.
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
 * [Dagr](https://github.com/fulcrumgenomics/dagr) - A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic GRaphs.
 * [Dagster](https://github.com/dagster-io/dagster) - Python-based API for defining DAGs that interfaces with popular workflow managers for building data applications.
