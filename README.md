@@ -20,6 +20,7 @@ Pipeline frameworks & libraries
 * [Briefly](https://github.com/bloomreach/briefly) - Python Meta-programming Library for Job Flow Control.
 * [Cluster Flow](http://clusterflow.io) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
 * [Clusterjob](https://github.com/monajemi/clusterjob) - Automated reproducibility, and hassle-free submission of computational jobs to clusters.
+* [Compi](https://www.sing-group.org/compi) - Application framework for portable computational pipelines.
 * [Compss](https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
 * [Consecution](https://github.com/robdmc/consecution) - A Python pipeline abstraction inspired by Apache Storm topologies.
