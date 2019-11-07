@@ -35,6 +35,7 @@ Pipeline frameworks & libraries
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Drake R package](https://github.com/ropensci/drake) - Reproducibility and high-performance computing with an easy R-focused interface. Unrelated to [Factual's Drake](https://github.com/factual/drake).
 * [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows.
+* [DVC](https://dvc.org) - Data version control system for ML project with lightweight pipeline support.
 * [eHive](https://github.com/Ensembl/ensembl-hive) - System for creating and running pipelines on a distributed compute resource.
 * [Fission Workflows](https://github.com/fission/fission-workflows) - A fast, lightweight workflow engine for serverless/FaaS functions.
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
@@ -113,7 +114,6 @@ Workflow platforms
 * [Chipster](http://chipster.csc.fi) - Open source platform for data analysis.
 * [Clubber](https://bitbucket.org/bromberglab/clubber) - Cluster Load Balancer for Bioinformatics e-Resources.
 * [Digdag](https://www.digdag.io) - Workflow manager designed for simplicity, extensibility and collaboration.
-* [DVC](https://dvc.org) - Data version control system for ML project with lightweight pipeline support.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
