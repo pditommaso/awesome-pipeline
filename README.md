@@ -32,6 +32,7 @@ Pipeline frameworks & libraries
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
 * [Dagr](https://github.com/fulcrumgenomics/dagr) - A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic GRaphs.
 * [Dagster](https://github.com/dagster-io/dagster) - Python-based API for defining DAGs that interfaces with popular workflow managers for building data applications.
+* [DataJoint](https://datajoint.io) - an open-source relational framework for scientific data pipelines.
 * [Dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics.
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
