@@ -60,6 +60,7 @@ Pipeline frameworks & libraries
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
 * [Martian](http://martian-lang.org/) - A language and framework for developing and executing complex computational pipelines.
 * [MD Studio](https://github.com/MD-Studio/MDStudio) - Microservice based workflow engine.
+* [MetaFlow](https://metaflow.org/) - Open-sourced framework from Netflix, for DAG generation for data scientists. Python and R API's.
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
 * [Moa](https://github.com/mfiers/Moa) - Lightweight workflows in bioinformatics.
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducible and scalable bioinformatics pipelines.
