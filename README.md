@@ -55,6 +55,7 @@ Pipeline frameworks & libraries
 * [Loom](https://github.com/StanfordBioinformatics/loom) - Tool for running bioinformatics workflows locally or in the cloud.
 * [Longbow](http://www.hecbiosim.ac.uk/longbow) - Job proxying tool for biomolecular simulations.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
+* [Maestro](https://github.com/LLNL/maestrowf) - YAML based HPC workflow execution tool. 
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
 * [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
