@@ -165,6 +165,7 @@ Literate programming (aka interactive notebooks)
 * [IPython](https://ipython.org/) A rich architecture for interactive computing.
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
+* [Polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more). Built by Netflix.
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html) - R Markdown notebook literate programming environment.
 * [SoS](https://vatlab.github.io/sos-docs/) - Readable, interactive, cross-platform and cross-language data science workflow system.
 * [Zeppelin](https://zeppelin.apache.org/) - Web-based notebook that enables interactive data analytics.
