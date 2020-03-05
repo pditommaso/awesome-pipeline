@@ -101,6 +101,7 @@ Pipeline frameworks & libraries
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stolos](https://github.com/sailthru/stolos) - Directed Acyclic Graph task dependency scheduler that simplify distributed pipelines.
 * [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
+* [StreamFlow](https://github.com/alpha-unito/streamflow) - Container native workflow management system focused on hybrid workflows.
 * [Sundial](https://github.com/gilt/sundial) - Jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling.
 * [Suro](https://github.com/Netflix/suro) - Java-based distributed pipeline from Netflix.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
