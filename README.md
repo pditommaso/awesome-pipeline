@@ -161,6 +161,10 @@ Workflow standardization initiatives
 * [Workflow Patterns Library](http://www.workflowpatterns.com/patterns)
 * [ResearchObject.org](http://www.researchobject.org)
 
+ETL & Data orchestration 
+------------------------
+* [DVC](https://dvc.org) - Data version control system for ML project with lightweight pipeline support.
+
 Literate programming (aka interactive notebooks)
 ---------------------------------------------------
 * [Beaker](http://beakernotebook.com/) Notebook-style development environment.
