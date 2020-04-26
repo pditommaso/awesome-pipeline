@@ -124,6 +124,7 @@ Workflow platforms
 * [Clubber](https://bitbucket.org/bromberglab/clubber) - Cluster Load Balancer for Bioinformatics e-Resources.
 * [Digdag](https://www.digdag.io) - Workflow manager designed for simplicity, extensibility and collaboration.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
+* [Flyte](https://github.com/lyft/flyte) - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform) - General-purpose platform with many specialized domain extensions.
