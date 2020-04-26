@@ -139,6 +139,7 @@ Workflow platforms
 * [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
+* [Temporal](https://www.temporal.io/) - Highly scalable developer oriented _Workflow as Code_ engine.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
 * [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
@@ -210,4 +211,3 @@ Related lists
 * [Awesome ETL](https://github.com/pawl/awesome-etl) - Curated list of notable ETL (extract, transform, load) frameworks, libraries and software.
 * [Awesome workflow engines](https://github.com/meirwah/awesome-workflow-engines) - Curated list of awesome open source workflow engines.
 * [Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
-
