@@ -75,6 +75,7 @@ Pipeline frameworks & libraries
 * [Popper](https://github.com/systemslab/popper) - YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.
 * [Porcupine](https://github.com/tweag/porcupine) - Haskell workflow tool to express and compose tasks (optionally cached) whose datasources and sinks are known ahead of time and rebindable, and which can expose arbitrary sets of parameters to the outside world.
 * [Prefect Core](https://docs.prefect.io/) - Python based workflow engine powering Prefect.
+* [Pydra](https://github.com/nipype/pydra) - Lightweight, DAG-based Python dataflow engine for reproducible and scalable scientific pipelines.
 * [PyFlow](https://github.com/Illumina/pyflow) - Lightweight parallel task engine.
 * [PypeFlow](https://github.com/PacificBiosciences/pypeFLOW) - Lightweight workflow engine for data analysis scripting.
 * [pyperator](https://github.com/baffelli/pyperator) - Simple push-based python workflow framework using asyncio, supporting recursive networks.
