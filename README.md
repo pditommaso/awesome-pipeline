@@ -27,6 +27,7 @@ Pipeline frameworks & libraries
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
 * [Consecution](https://github.com/robdmc/consecution) - A Python pipeline abstraction inspired by Apache Storm topologies.
 * [Cosmos](https://cosmos.hms.harvard.edu) - Python library for massively parallel workflows.
+* [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 * [Cromwell](https://github.com/broadinstitute/cromwell) - Workflow Management System geared towards scientific workflows from the Broad Institute.
 * [Cuneiform](https://github.com/joergen7/cuneiform) - Advanced functional workflow language and framework, implemented in Erlang.
 * [Cylc](https://cylc.github.io/) - A workflow engine for cycling systems, originally developed for operational environmental forecasting.
