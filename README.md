@@ -54,6 +54,7 @@ Pipeline frameworks & libraries
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Workflow development tool that helps you build data pipelines.
 * [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application.
 * [Kronos](https://github.com/jtaghiyar/kronos) - Workflow assembler for cancer genome analytics and informatics.
+* [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
 * [Loom](https://github.com/StanfordBioinformatics/loom) - Tool for running bioinformatics workflows locally or in the cloud.
 * [Longbow](http://www.hecbiosim.ac.uk/longbow) - Job proxying tool for biomolecular simulations.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
