@@ -169,6 +169,7 @@ Workflow standardization initiatives
 ETL & Data orchestration 
 ------------------------
 * [DVC](https://dvc.org) - Data version control system for ML project with lightweight pipeline support.
+* [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
 
 Literate programming (aka interactive notebooks)
 ---------------------------------------------------
