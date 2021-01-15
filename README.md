@@ -8,6 +8,7 @@ Pipeline frameworks & libraries
 
 * [ActionChain](http://docs.stackstorm.com/actionchain.html) - A workflow system for simple linear success/failure workflows.
 * [Adage](https://github.com/diana-hep/adage) - Small package to describe workflows that are not completely known at definition time.
+* [AiiDA](https://github.com/aiidateam/aiida-core) - workflow manager with a strong focus on provenance, performance and extensibility.
 * [Airflow](https://github.com/airbnb/airflow) - Python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
 * [Antha](https://www.antha-lang.org/) - High-level language for biology.
