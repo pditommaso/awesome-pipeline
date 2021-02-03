@@ -138,6 +138,7 @@ Workflow platforms
 * [omega|ml DataOps Platform](https://github.com/omegaml/omegaml) - Data & model pipeline deployment for humans - integrated, scalable, extensible.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
+* [Orchest](https://github.com/orchest/orchest) - An IDE for Data Science.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - Workflow platform with a graphical design environment.
 * [Piper](https://github.com/creactiviti/piper) - Distributed workflow engine designed to be dead simple.
