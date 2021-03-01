@@ -33,10 +33,11 @@ Pipeline frameworks & libraries
 * [Cuneiform](https://github.com/joergen7/cuneiform) - Advanced functional workflow language and framework, implemented in Erlang.
 * [Cylc](https://cylc.github.io/) - A workflow engine for cycling systems, originally developed for operational environmental forecasting.
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
-* [Dagr](https://github.com/fulcrumgenomics/dagr) - A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic GRaphs.
+* [Dagr](https://github.com/fulcrumgenomics/dagr) - A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic Graphs.
 * [Dagster](https://github.com/dagster-io/dagster) - Python-based API for defining DAGs that interfaces with popular workflow managers for building data applications.
 * [DataJoint](https://datajoint.io) - an open-source relational framework for scientific data pipelines.
 * [Dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics.
+* [Dbt](https://www.getdbt.com/) - Framework for writing analytics workflows entirely in SQL. The T part of ETL, focuses on analytics engineering.
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
