@@ -19,16 +19,24 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo      
       - uses: docker://cicirello/gnu-on-alpine:latest
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: gawk -f decorate.awk README.md > README_meta.md
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Commit files
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Add changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+      
