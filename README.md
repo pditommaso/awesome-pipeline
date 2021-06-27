@@ -110,7 +110,6 @@ Pipeline frameworks & libraries
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Targets](https://github.com/ropensci/targets) - Dynamic, function-oriented [Make](https://www.gnu.org/software/make/)-like reproducible pipelines at scale in R.
 * [TaskGraph](https://github.com/natcap/taskgraph) - A library to help manage complicated computational software pipelines consisting of long running individual tasks.
-* [Temporal](https://github.com/temporalio/temporal)
 * [Tibanna](https://github.com/4dn-dcic/tibanna) - Tool that helps you run genomic pipelines on Amazon cloud.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
 * [Yap](https://opensource.nibr.com/projects/yap) - Extensible parallel framework, written in Python using OpenMPI libraries.
@@ -145,7 +144,7 @@ Workflow platforms
 * [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
-* [Temporal](https://www.temporal.io/) - Highly scalable developer oriented _Workflow as Code_ engine.
+* [Temporal](https://github.com/temporalio/temporal) - Highly scalable developer oriented _Workflow as Code_ engine.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
 * [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
