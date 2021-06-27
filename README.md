@@ -1,10 +1,6 @@
 Awesome Pipeline
 ================
 
-* [Reflow](https://github.com/grailbio/reflow): <img src="https://img.shields.io/github/languages/top/grailbio/reflow?color=%23456eb0" height="15px"> ![lang](https://img.shields.io/github/languages/top/grailbio/reflow?color=%23456eb0) ![stars](https://img.shields.io/github/stars/grailbio/reflow?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/grailbio/reflow?color=%236eb045) - Language and runtime for distributed, incremental data processing in the cloud.
-* [drake](https://github.com/Factual/drake): ![lang](https://img.shields.io/github/languages/top/Factual/drake?color=%23456eb0) ![stars](https://img.shields.io/github/stars/Factual/drake?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/Factual/drake?color=%236eb045) - Robust DSL akin to Make, implemented in Clojure.
-* [nextflow](https://github.com/nextflow-io/nextflow): ![lang](https://img.shields.io/github/languages/top/nextflow-io/nextflow?color=%23456eb0) ![stars](https://img.shields.io/github/stars/nextflow-io/nextflow?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/nextflow-io/nextflow?color=%236eb045) - Flow-based computational toolkit for reproducible and scalable bioinformatics pipelines.
-
 A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 Pipeline frameworks & libraries
@@ -12,7 +8,7 @@ Pipeline frameworks & libraries
 
 * [ActionChain](http://docs.stackstorm.com/actionchain.html) - A workflow system for simple linear success/failure workflows.
 * [Adage](https://github.com/diana-hep/adage) - Small package to describe workflows that are not completely known at definition time.
-* [AiiDA](https://github.com/aiidateam/aiida-core) - workflow manager with a strong focus on provenance, performance and extensibility.
+* [AiiDA](https://github.com/aiidateam/aiida-core) - Workflow manager with a strong focus on provenance, performance and extensibility.
 * [Airflow](https://github.com/airbnb/airflow) - Python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
 * [Antha](https://www.antha-lang.org/) - High-level language for biology.
@@ -39,7 +35,7 @@ Pipeline frameworks & libraries
 * [Dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python.
 * [Dagr](https://github.com/fulcrumgenomics/dagr) - A scala based DSL and framework for writing and executing bioinformatics pipelines as Directed Acyclic Graphs.
 * [Dagster](https://github.com/dagster-io/dagster) - Python-based API for defining DAGs that interfaces with popular workflow managers for building data applications.
-* [DataJoint](https://datajoint.io) - an open-source relational framework for scientific data pipelines.
+* [DataJoint](https://datajoint.io) - An open-source relational framework for scientific data pipelines.
 * [Dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics.
 * [Dbt](https://www.getdbt.com/) - Framework for writing analytics workflows entirely in SQL. The T part of ETL, focuses on analytics engineering.
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
@@ -77,7 +73,7 @@ Pipeline frameworks & libraries
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data.
 * [Pachyderm](https://www.pachyderm.io/) - Distributed and reproducible data pipelining and data management, built on the container ecosystem.
 * [Parsl](https://github.com/Parsl/parsl) - Parallel Scripting Library.
-* [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) Ruby based launcher for complex biological pipelines.
+* [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) - Ruby based launcher for complex biological pipelines.
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
 * [Popper](https://github.com/systemslab/popper) - YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.
 * [Porcupine](https://github.com/tweag/porcupine) - Haskell workflow tool to express and compose tasks (optionally cached) whose datasources and sinks are known ahead of time and rebindable, and which can expose arbitrary sets of parameters to the outside world.
@@ -108,19 +104,17 @@ Pipeline frameworks & libraries
 * [Snakemake](https://snakemake.readthedocs.io/en/stable) - Tool for running and managing bioinformatics pipelines.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stolos](https://github.com/sailthru/stolos) - Directed Acyclic Graph task dependency scheduler that simplify distributed pipelines.
-* [Steppy](https://github.com/minerva-ml/steppy) - lightweight, open-source, Python 3 library for fast and reproducible experimentation
+* [Steppy](https://github.com/minerva-ml/steppy) - Lightweight, open-source, Python 3 library for fast and reproducible experimentation
 * [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
 * [StreamFlow](https://github.com/alpha-unito/streamflow) - Container native workflow management system focused on hybrid workflows.
-* [Sundial](https://github.com/gilt/sundial) - Jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling.
 * [Suro](https://github.com/Netflix/suro) - Java-based distributed pipeline from Netflix.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Targets](https://github.com/ropensci/targets) - Dynamic, function-oriented [Make](https://www.gnu.org/software/make/)-like reproducible pipelines at scale in R.
 * [TaskGraph](https://github.com/natcap/taskgraph) - A library to help manage complicated computational software pipelines consisting of long running individual tasks.
 * [Temporal](https://github.com/temporalio/temporal)
-* [Tibanna](https://github.com/4dn-dcic/tibanna) Tool that helps you run genomic pipelines on Amazon cloud.
+* [Tibanna](https://github.com/4dn-dcic/tibanna) - Tool that helps you run genomic pipelines on Amazon cloud.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
-* [Wallaroo](https://www.wallaroolabs.com/) - Framework for streaming data applications and algorithms that react to real-time events.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
 * [Zenaton](https://zenaton.com) - Workflow engine for orchestrating jobs, data and events across your applications and third party services
 
@@ -140,7 +134,6 @@ Workflow platforms
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform) - General-purpose platform with many specialized domain extensions.
-* [NextflowWorkbench](http://workflow.campagnelab.org) - Integrated development environment for Nextflow, Docker and Reusable Workflows.
 * [omega|ml DataOps Platform](https://github.com/omegaml/omegaml) - Data & model pipeline deployment for humans - integrated, scalable, extensible.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
@@ -161,7 +154,6 @@ Workflow platforms
 Workflow languages
 -------------------
 * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
-* [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide)
 * [OpenMOLE DSL](http://www.openmole.org/current/Documentation_Language.html)
 * [Workflow Description Language](https://github.com/openwdl/wdl)
 * [Yet Another Workflow Language](http://www.yawlfoundation.org)
@@ -182,10 +174,10 @@ ETL & Data orchestration
 
 Literate programming (aka interactive notebooks)
 ---------------------------------------------------
-* [Beaker](http://beakernotebook.com/) Notebook-style development environment.
+* [Beaker](http://beakernotebook.com/) - Notebook-style development environment.
 * [Binder](http://mybinder.org/) - Turn a GitHub repo into a collection of interactive notebooks powered by Jupyter and Kubernetes
-* [IPython](https://ipython.org/) A rich architecture for interactive computing.
-* [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
+* [IPython](https://ipython.org/) - A rich architecture for interactive computing.
+* [Jupyter](https://jupyter.org/) - Language-agnostic notebook literate programming environment.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [Polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more). Built by Netflix.
 * [Ploomber](https://github.com/ploomber/ploomber) - Consolidate your notebooks and scripts in a reproducible pipeline using a `pipeline.yaml` file
@@ -197,7 +189,7 @@ Literate programming (aka interactive notebooks)
 Extract, transform, load (ETL)
 ------------------------------
 
-* [Cadence](https://github.com/uber/cadence) Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
+* [Cadence](https://github.com/uber/cadence) - Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
 * [Dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based operations in your data warehouse.
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
