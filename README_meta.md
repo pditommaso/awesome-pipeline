@@ -1,7 +1,7 @@
 Awesome Pipeline
 ================
 
-A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). A version with metadata (language, stars and last activity) can be found [here](README_meta.md)
+A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). A version with metadata (language, stars and last activity) can be found [here](README_meta.md).
 
 Pipeline frameworks & libraries
 --------------------------------
