@@ -1,7 +1,7 @@
 Awesome Pipeline
 ================
 
-A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). A version with metadata (language, stars and last activity) can be found [here](README_meta.md)
 
 Pipeline frameworks & libraries
 --------------------------------
@@ -98,7 +98,7 @@ Pipeline frameworks & libraries
 * [Ruigi](https://github.com/kirillseva/ruigi) ![lang](https://img.shields.io/github/languages/top/kirillseva/ruigi?color=%23456eb0) ![stars](https://img.shields.io/github/stars/kirillseva/ruigi?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/kirillseva/ruigi?color=%236eb045) - Pipeline tool for R, inspired by Luigi.
 * [Sake](https://github.com/tonyfischetti/sake) ![lang](https://img.shields.io/github/languages/top/tonyfischetti/sake?color=%23456eb0) ![stars](https://img.shields.io/github/stars/tonyfischetti/sake?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/tonyfischetti/sake?color=%236eb045) - Self-documenting build automation tool.
 * [SciLuigi](https://github.com/pharmbio/sciluigi) ![lang](https://img.shields.io/github/languages/top/pharmbio/sciluigi?color=%23456eb0) ![stars](https://img.shields.io/github/stars/pharmbio/sciluigi?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/pharmbio/sciluigi?color=%236eb045) - Helper library for writing flexible scientific workflows in Luigi.
-* [SciPipe](http://scipipe.org) - Library for writing Scientific Workflows in Go.
+* [SciPipe](https://github.com/scipipe/scipipe) ![lang](https://img.shields.io/github/languages/top/scipipe/scipipe?color=%23456eb0) ![stars](https://img.shields.io/github/stars/scipipe/scipipe?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/scipipe/scipipe?color=%236eb045) - Library for writing Scientific Workflows in Go.
 * [Scoop](https://github.com/soravux/scoop) ![lang](https://img.shields.io/github/languages/top/soravux/scoop?color=%23456eb0) ![stars](https://img.shields.io/github/stars/soravux/scoop?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/soravux/scoop?color=%236eb045) - Scalable Concurrent Operations in Python.
 * [Seqtools](https://github.com/nlgranger/SeqTools) ![lang](https://img.shields.io/github/languages/top/nlgranger/SeqTools?color=%23456eb0) ![stars](https://img.shields.io/github/stars/nlgranger/SeqTools?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/nlgranger/SeqTools?color=%236eb045) - Python library for lazy evaluation of pipelined transformations on indexable containers.
 * [Snakemake](https://github.com/snakemake/snakemake) ![lang](https://img.shields.io/github/languages/top/snakemake/snakemake?color=%23456eb0) ![stars](https://img.shields.io/github/stars/snakemake/snakemake?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/snakemake/snakemake?color=%236eb045) - Tool for running and managing bioinformatics pipelines.

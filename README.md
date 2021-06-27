@@ -1,7 +1,7 @@
 Awesome Pipeline
 ================
 
-A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+A curated list of awesome pipeline toolkits inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). A version with metadata (language, stars and last activity) can be found [here](README_meta.md)
 
 Pipeline frameworks & libraries
 --------------------------------
@@ -98,7 +98,7 @@ Pipeline frameworks & libraries
 * [Ruigi](https://github.com/kirillseva/ruigi) - Pipeline tool for R, inspired by Luigi.
 * [Sake](https://github.com/tonyfischetti/sake) - Self-documenting build automation tool.
 * [SciLuigi](https://github.com/pharmbio/sciluigi) - Helper library for writing flexible scientific workflows in Luigi.
-* [SciPipe](http://scipipe.org) - Library for writing Scientific Workflows in Go.
+* [SciPipe](https://github.com/scipipe/scipipe/) - Library for writing Scientific Workflows in Go.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Seqtools](https://github.com/nlgranger/SeqTools) - Python library for lazy evaluation of pipelined transformations on indexable containers.
 * [Snakemake](https://github.com/snakemake/snakemake) - Tool for running and managing bioinformatics pipelines.
