@@ -1,7 +1,7 @@
 Awesome Pipeline
 ================
 
-* [Reflow](https://github.com/grailbio/reflow): ![lang](https://img.shields.io/github/languages/top/grailbio/reflow?color=%23456eb0) ![stars](https://img.shields.io/github/stars/grailbio/reflow?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/grailbio/reflow?color=%236eb045) - Language and runtime for distributed, incremental data processing in the cloud.
+* [Reflow](https://github.com/grailbio/reflow): <img src="https://img.shields.io/github/languages/top/grailbio/reflow?color=%23456eb0" height="15px"> ![lang](https://img.shields.io/github/languages/top/grailbio/reflow?color=%23456eb0) ![stars](https://img.shields.io/github/stars/grailbio/reflow?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/grailbio/reflow?color=%236eb045) - Language and runtime for distributed, incremental data processing in the cloud.
 * [drake](https://github.com/Factual/drake): ![lang](https://img.shields.io/github/languages/top/Factual/drake?color=%23456eb0) ![stars](https://img.shields.io/github/stars/Factual/drake?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/Factual/drake?color=%236eb045) - Robust DSL akin to Make, implemented in Clojure.
 * [nextflow](https://github.com/nextflow-io/nextflow): ![lang](https://img.shields.io/github/languages/top/nextflow-io/nextflow?color=%23456eb0) ![stars](https://img.shields.io/github/stars/nextflow-io/nextflow?color=%23b0446d) ![activity](https://img.shields.io/github/last-commit/nextflow-io/nextflow?color=%236eb045) - Flow-based computational toolkit for reproducible and scalable bioinformatics pipelines.
 
