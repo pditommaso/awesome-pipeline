@@ -23,6 +23,6 @@ if (CHECK==1){
   if(meta[3]!="github.com"){
     printf"%s%s%s\n", text[1],description,MESG
   } else {
-    printf"* [%s](https://github.com/%s/%s) ![lang](https://img.shields.io/github/languages/top/%s/%s?color=%%23456eb0) ![stars](https://img.shields.io/github/stars/%s/%s?color=%%23b0446d) ![activity](https://img.shields.io/github/last-commit/%s/%s?color=%%236eb045)%s\n", markd[2],meta[4],meta[5],meta[4],meta[5],meta[4],meta[5], meta[4],meta[5],description
+    printf"* [%s](https://github.com/%s/%s) ![lang](https://img.shields.io/github/languages/top/%s/%s?color=456eb0) ![stars](https://img.shields.io/github/stars/%s/%s?color=b0446d) ![activity](https://img.shields.io/github/last-commit/%s/%s?color=6eb045)%s\n", markd[2],meta[4],meta[5],meta[4],meta[5],meta[4],meta[5], meta[4],meta[5],description
   }
 }
