@@ -132,7 +132,7 @@ Workflow platforms
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform) - General-purpose platform with many specialized domain extensions.
-* [omega|ml DataOps Platform](https://github.com/omegaml/omegaml) ![lang](https://img.shields.io/github/languages/top/omegaml/omegaml?color=456eb0) ![stars](https://img.shields.io/github/stars/omegaml/omegaml?color=b0446d) ![activity](https://img.shields.io/github/last-commit/omegaml/omegaml?color=6eb045) - Data & model pipeline deployment for humans
+* [omegaml DataOps Platform](https://github.com/omegaml/omegaml) ![lang](https://img.shields.io/github/languages/top/omegaml/omegaml?color=456eb0) ![stars](https://img.shields.io/github/stars/omegaml/omegaml?color=b0446d) ![activity](https://img.shields.io/github/last-commit/omegaml/omegaml?color=6eb045) - Data & model pipeline deployment for humans
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
 * [Orchest](https://github.com/orchest/orchest) ![lang](https://img.shields.io/github/languages/top/orchest/orchest?color=456eb0) ![stars](https://img.shields.io/github/stars/orchest/orchest?color=b0446d) ![activity](https://img.shields.io/github/last-commit/orchest/orchest?color=6eb045) - An IDE for Data Science.
