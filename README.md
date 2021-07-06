@@ -132,7 +132,7 @@ Workflow platforms
 * [Galaxy](https://usegalaxy.org) - Web-based platform for biomedical research.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform) - General-purpose platform with many specialized domain extensions.
-* [omega|ml DataOps Platform](https://github.com/omegaml/omegaml) - Data & model pipeline deployment for humans - integrated, scalable, extensible.
+* [omegaml DataOps Platform](https://github.com/omegaml/omegaml) - Data & model pipeline deployment for humans - integrated, scalable, extensible.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
 * [Orchest](https://github.com/orchest/orchest) - An IDE for Data Science.
