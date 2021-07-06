@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: gawk -f decorate.awk README.md > README_meta.md
+        run: gawk -f decorate.awk README.md > docs/index.md
 
       - name: Commit files
         run: |
