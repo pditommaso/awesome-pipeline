@@ -142,7 +142,6 @@ Workflow platforms
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
 * [Orchest](https://github.com/orchest/orchest) - An IDE for Data Science.
 * [Pegasus](http://pegasus.isi.edu) - Workflow Management System.
-* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - Workflow platform with a graphical design environment.
 * [Piper](https://github.com/creactiviti/piper) - Distributed workflow engine designed to be dead simple.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for machine learning experimentation workflow.
 * [Reana](https://github.com/reanahub/reana) - Platform for reusable research data analyses developed by CERN.
@@ -197,6 +196,8 @@ Extract, transform, load (ETL)
 * [Dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based operations in your data warehouse.
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
+* [Pentaho Kettle](https://community.hitachivantara.com/s/article/data-integration-kettle) - A plataform that delivers poweful ETL capabilities, using a groundbreaking, metadata-driven approach.
+
 
 Continuous Delivery workflows
 --------------------------------
