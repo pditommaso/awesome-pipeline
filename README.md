@@ -12,12 +12,12 @@ Pipeline frameworks & libraries
 * [Airflow](https://github.com/airbnb/airflow) - Python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
 * [Antha](https://www.antha-lang.org/) - High-level language for biology.
-* [AWE](https://github.com/MG-RAST/AWE/) - Workflow and resource management system with CWL support
+* [AWE](https://github.com/MG-RAST/AWE/) - Workflow and resource management system with CWL support.
 * [Balsam](https://github.com/argonne-lcf/balsam) - Python-based high throughput task and workflow engine. 
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
 * [BioMake](https://github.com/evoldoers/biomake) - GNU-Make-like utility for managing builds and complex workflows.
 * [BioQueue](https://github.com/liyao001/BioQueue) - Explicit framework with web monitoring and resource estimation.
-* [Bioshake](https://github.com/papenfusslab/bioshake) - Haskell DSL built on shake with strong typing and EDAM support
+* [Bioshake](https://github.com/papenfusslab/bioshake) - Haskell DSL built on shake with strong typing and EDAM support.
 * [Bistro](https://github.com/pveber/bistro) - Library to build and execute typed scientific workflows.
 * [Bpipe](https://github.com/ssadedin/bpipe/) - Tool for running and managing bioinformatics pipelines.
 * [Briefly](https://github.com/bloomreach/briefly) - Python Meta-programming Library for Job Flow Control.
@@ -48,7 +48,7 @@ Pipeline frameworks & libraries
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
 * [Gc3pie](https://github.com/uzh/gc3pie) - Python libraries and tools for running applications on diverse Grids and clusters.
-* [Guix Workflow Language](https://guixwl.org/) - A workflow management language extension for GNU Guix
+* [Guix Workflow Language](https://guixwl.org/) - A workflow management language extension for GNU Guix.
 * [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
 * [HyperLoom](https://github.com/It4innovations/HyperLoom) - Platform for defining and executing workflow pipelines in large-scale distributed environments.
 * [Joblib](https://joblib.readthedocs.io/en/latest/) - Set of tools to provide lightweight pipelining in Python.
@@ -61,7 +61,7 @@ Pipeline frameworks & libraries
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Maestro](https://github.com/LLNL/maestrowf) - YAML based HPC workflow execution tool. 
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
-* [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow
+* [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow.
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
 * [Martian](http://martian-lang.org/) - A language and framework for developing and executing complex computational pipelines.
 * [MD Studio](https://github.com/MD-Studio/MDStudio) - Microservice based workflow engine.
@@ -104,7 +104,7 @@ Pipeline frameworks & libraries
 * [Snakemake](https://snakemake.readthedocs.io/en/stable) - Tool for running and managing bioinformatics pipelines.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stolos](https://github.com/sailthru/stolos) - Directed Acyclic Graph task dependency scheduler that simplify distributed pipelines.
-* [Steppy](https://github.com/minerva-ml/steppy) - lightweight, open-source, Python 3 library for fast and reproducible experimentation
+* [Steppy](https://github.com/minerva-ml/steppy) - lightweight, open-source, Python 3 library for fast and reproducible experimentation.
 * [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
 * [StreamFlow](https://github.com/alpha-unito/streamflow) - Container native workflow management system focused on hybrid workflows.
 * [Sundial](https://github.com/gilt/sundial) - Jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling.
@@ -118,7 +118,8 @@ Pipeline frameworks & libraries
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [Wallaroo](https://www.wallaroolabs.com/) - Framework for streaming data applications and algorithms that react to real-time events.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
-* [Zenaton](https://zenaton.com) - Workflow engine for orchestrating jobs, data and events across your applications and third party services
+* [Zenaton](https://zenaton.com) - Workflow engine for orchestrating jobs, data and events across your applications and third party services.
+* [ZenML](https://zenml.io) - Extensible open-source MLOps framework to create reproducible pipelines for data scientists.
 
 Workflow platforms
 --------------------
