@@ -90,6 +90,7 @@ Pipeline frameworks & libraries
 * [Rabix](https://github.com/rabix/rabix) - Python-based workflow toolkit based on the Common Workflow Language and Docker.
 * [Rain](https://github.com/substantic/rain) - Framework for large distributed task-based pipelines, written in Rust with Python API.
 * [Ray](https://github.com/ray-project/ray) - Flexible, high-performance distributed Python execution framework.
+* [Redun](https://github.com/insitro/redun) - Yet another redundant workflow engine.
 * [Reflow](https://github.com/grailbio/reflow) - Language and runtime for distributed, incremental data processing in the cloud.
 * [Remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R.
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - Wrapper for the creation of Makefiles, enabling massive parallelization.
