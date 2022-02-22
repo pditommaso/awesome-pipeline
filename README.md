@@ -154,7 +154,7 @@ Workflow platforms
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
 * [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
-* [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform. It is a reliable data management platform, tool development platform, flow construction platform, task scheduling platform and data visualization platform. Users can directly access their data through a web browser, perform analysis and view the results.
+* [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform. 
 
 Workflow languages
 -------------------
