@@ -224,6 +224,7 @@ Build automation tools
 Other projects
 ----------------
 * [HPC Grid Runner](http://hpcgridrunner.github.io/)
+* [NiFi](https://nifi.apache.org) - Powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
 * [noWorkflow](https://github.com/gems-uff/noworkflow) - Supporting infrastructure to run scientific experiments without a scientific workflow management system, and still get things like provenance.
 * [Reprozip](https://www.reprozip.org/) - Simplifies the process of creating reproducible experiments from command-line executions.
 
