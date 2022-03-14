@@ -108,6 +108,7 @@ Pipeline frameworks & libraries
 * [Steppy](https://github.com/minerva-ml/steppy) - lightweight, open-source, Python 3 library for fast and reproducible experimentation.
 * [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
 * [StreamFlow](https://github.com/alpha-unito/streamflow) - Container native workflow management system focused on hybrid workflows.
+* [StreamPipes](https://streampipes.apache.org) - A self-service IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 * [Sundial](https://github.com/gilt/sundial) - Jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling.
 * [Suro](https://github.com/Netflix/suro) - Java-based distributed pipeline from Netflix.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
