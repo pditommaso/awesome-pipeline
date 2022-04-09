@@ -54,6 +54,7 @@ Pipeline frameworks & libraries
 * [Joblib](https://joblib.readthedocs.io/en/latest/) - Set of tools to provide lightweight pipelining in Python.
 * [Jug](https://jug.readthedocs.io) - A task Based parallelization framework for Python.
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Workflow development tool that helps you build data pipelines.
+* [Kestra](https://github.com/kestra-io/kestra) - Open source data orchestration and scheduling platform with declarative syntax.
 * [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application.
 * [Kronos](https://github.com/jtaghiyar/kronos) - Workflow assembler for cancer genome analytics and informatics.
 * [Loom](https://github.com/StanfordBioinformatics/loom) - Tool for running bioinformatics workflows locally or in the cloud.
