@@ -13,7 +13,7 @@ Pipeline frameworks & libraries
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
 * [Antha](https://www.antha-lang.org/) - High-level language for biology.
 * [AWE](https://github.com/MG-RAST/AWE/) - Workflow and resource management system with CWL support.
-* [Balsam](https://github.com/argonne-lcf/balsam) - Python-based high throughput task and workflow engine. 
+* [Balsam](https://github.com/argonne-lcf/balsam) - Python-based high throughput task and workflow engine.
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
 * [BioMake](https://github.com/evoldoers/biomake) - GNU-Make-like utility for managing builds and complex workflows.
 * [BioQueue](https://github.com/liyao001/BioQueue) - Explicit framework with web monitoring and resource estimation.
@@ -57,10 +57,11 @@ Pipeline frameworks & libraries
 * [Kestra](https://github.com/kestra-io/kestra) - Open source data orchestration and scheduling platform with declarative syntax.
 * [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application.
 * [Kronos](https://github.com/jtaghiyar/kronos) - Workflow assembler for cancer genome analytics and informatics.
+* [Kubeflow Pipelines](https://www.kubeflow.org/docs/components/pipelines/) - Framework for building and deploying portable, scalable machine learning workflows using Docker containers and Argo Workflows.
 * [Loom](https://github.com/StanfordBioinformatics/loom) - Tool for running bioinformatics workflows locally or in the cloud.
 * [Longbow](http://www.hecbiosim.ac.uk/longbow) - Job proxying tool for biomolecular simulations.
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
-* [Maestro](https://github.com/LLNL/maestrowf) - YAML based HPC workflow execution tool. 
+* [Maestro](https://github.com/LLNL/maestrowf) - YAML based HPC workflow execution tool.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
 * [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow.
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
@@ -156,7 +157,7 @@ Workflow platforms
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
 * [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
-* [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform. 
+* [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform.
 
 Workflow languages
 -------------------
@@ -175,7 +176,7 @@ Workflow standardization initiatives
 * [Workflow Patterns Library](http://www.workflowpatterns.com/patterns)
 * [ResearchObject.org](http://www.researchobject.org)
 
-ETL & Data orchestration 
+ETL & Data orchestration
 ------------------------
 * [DVC](https://dvc.org) - Data version control system for ML project with lightweight pipeline support.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
