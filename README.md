@@ -211,7 +211,6 @@ Continuous Delivery workflows
 --------------------------------
 * [Argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
 * [CDS](https://github.com/ovh/cds) - A pipeline based Continuous Delivery Service written in Golang.
-* [Deis](https://github.com/deis/deis) - Workflow system to create and manage applications on Kubernetes.
 
 Build automation tools
 ----------------------
