@@ -179,6 +179,7 @@ Workflow standardization initiatives
 
 ETL & Data orchestration 
 ------------------------
+* [DataLad](https://datalad.org) - git and git-annex based data version control system with lightweight provenance capture/re-execution support.
 * [DVC](https://dvc.org) - Data version control system for ML project with lightweight pipeline support.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
 * [Nessie](https://github.com/projectnessie/nessie) - Provides Git-like capability & version control for Iceberg Tables, Delta Lake Tables & SQL Views.
