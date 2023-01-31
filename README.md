@@ -224,6 +224,10 @@ Build automation tools
 * [Make](https://www.gnu.org/software/make/) - The GNU Make build system.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 
+Automated workflow composition
+------------------------------
+* [APE](https://github.com/sanctuuary/APE) - A tool for the automated exploration of possible computational workflows based on semantic annotations.
+
 
 Other projects
 ----------------
