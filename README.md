@@ -44,6 +44,7 @@ Pipeline frameworks & libraries
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Drake R package](https://github.com/ropensci/drake) - Reproducibility and high-performance computing with an easy R-focused interface. Unrelated to [Factual's Drake](https://github.com/factual/drake). Succeeded by [Targets](https://github.com/ropensci/targets).
 * [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows.
+* [ecFlow](https://github.com/ecmwf/ecflow) - Workflow manager.
 * [eHive](https://github.com/Ensembl/ensembl-hive) - System for creating and running pipelines on a distributed compute resource.
 * [Fission Workflows](https://github.com/fission/fission-workflows) - A fast, lightweight workflow engine for serverless/FaaS functions.
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
