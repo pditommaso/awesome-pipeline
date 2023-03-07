@@ -52,6 +52,7 @@ Pipeline frameworks & libraries
 * [Gc3pie](https://github.com/uzh/gc3pie) - Python libraries and tools for running applications on diverse Grids and clusters.
 * [Guix Workflow Language](https://guixwl.org/) - A workflow management language extension for GNU Guix.
 * [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
+* [Hamilton](https://github.com/dagworks-inc/hamilton) - A python micro-framework for describing dataflows; runs anywhere python runs.
 * [HyperLoom](https://github.com/It4innovations/HyperLoom) - Platform for defining and executing workflow pipelines in large-scale distributed environments.
 * [Joblib](https://joblib.readthedocs.io/en/latest/) - Set of tools to provide lightweight pipelining in Python.
 * [Jug](https://jug.readthedocs.io) - A task Based parallelization framework for Python.
