@@ -83,7 +83,6 @@ Pipeline frameworks & libraries
 * [Prefect Core](https://docs.prefect.io/) - Python based workflow engine powering Prefect.
 * [Pydra](https://github.com/nipype/pydra) - Lightweight, DAG-based Python dataflow engine for reproducible and scalable scientific pipelines.
 * [PyFlow](https://github.com/Illumina/pyflow) - Lightweight parallel task engine.
-* [PypeFlow](https://github.com/PacificBiosciences/pypeFLOW) - Lightweight workflow engine for data analysis scripting.
 * [pyperator](https://github.com/baffelli/pyperator) - Simple push-based python workflow framework using asyncio, supporting recursive networks.
 * [pyppl](https://github.com/pwwang/pyppl) - A python lightweight pipeline framework.
 * [pypyr](https://pypyr.io) - Automation task-runner for sequential steps defined in a pipeline yaml, with AWS and Slack plug-ins.
