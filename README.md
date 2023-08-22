@@ -41,6 +41,7 @@ Pipeline frameworks & libraries
 * [Dbt](https://www.getdbt.com/) - Framework for writing analytics workflows entirely in SQL. The T part of ETL, focuses on analytics engineering.
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
 * [Doit](http://pydoit.org/) - Task management & automation tool.
+* [Domino](https://github.com/Tauffer-Consulting/domino) - User friendly and open source visual workflow management platform.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Drake R package](https://github.com/ropensci/drake) - Reproducibility and high-performance computing with an easy R-focused interface. Unrelated to [Factual's Drake](https://github.com/factual/drake). Succeeded by [Targets](https://github.com/ropensci/targets).
 * [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows.
