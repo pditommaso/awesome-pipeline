@@ -221,10 +221,11 @@ Build automation tools
 * [Bazel](http://bazel.io/) - Build software just as engineers do at Google.
 * [DoIt](https://github.com/pydoit/doit) - Highly generalized task-management and automation in Python.
 * [Gradle](http://gradle.org/) - Unified cross platforms builds.
-* [Scons](http://www.scons.org/) - Python library focused on C/C++ builds.
-* [Shake](https://github.com/ndmitchell/shake) - Define robust build systems akin to GNU Make using Haskell.
+* [Just](https://github.com/casey/just) - Command and recipe runner similar to Make, built in Rust.
 * [Make](https://www.gnu.org/software/make/) - The GNU Make build system.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
+* [Scons](http://www.scons.org/) - Python library focused on C/C++ builds.
+* [Shake](https://github.com/ndmitchell/shake) - Define robust build systems akin to GNU Make using Haskell.
 
 Automated workflow composition
 ------------------------------
