@@ -106,6 +106,7 @@ Pipeline frameworks & libraries
 * [Signac](https://signac.io) - Lightweight, but scalable framework for file-driven workflows to be run locally and on HPC systems.
 * [Scoop](https://github.com/soravux/scoop/) - Scalable Concurrent Operations in Python.
 * [Seqtools](https://github.com/nlgranger/SeqTools) - Python library for lazy evaluation of pipelined transformations on indexable containers.
+* [SmartPipeline](https://github.com/giacbrd/SmartPipeline) - A framework for rapid development of robust data pipelines following a simple design pattern.
 * [Snakemake](https://snakemake.readthedocs.io/en/stable) - Tool for running and managing bioinformatics pipelines.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stolos](https://github.com/sailthru/stolos) - Directed Acyclic Graph task dependency scheduler that simplify distributed pipelines.
