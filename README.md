@@ -117,6 +117,7 @@ Pipeline frameworks & libraries
 * [Sundial](https://github.com/gilt/sundial) - Jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling.
 * [Suro](https://github.com/Netflix/suro) - Java-based distributed pipeline from Netflix.
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
+* [TAF](https://github.com/ices-tools-prod/TAF) - R package to organize reproducible scientific workflows.
 * [Targets](https://github.com/ropensci/targets) - Dynamic, function-oriented [Make](https://www.gnu.org/software/make/)-like reproducible pipelines at scale in R.
 * [TaskGraph](https://github.com/natcap/taskgraph) - A library to help manage complicated computational software pipelines consisting of long running individual tasks.
 * [Temporal](https://github.com/temporalio/temporal) - Temporal is a microservice orchestration platform which enables developers to build scalable applications without sacrificing productivity or reliability.
