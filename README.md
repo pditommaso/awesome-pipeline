@@ -87,6 +87,7 @@ Pipeline frameworks & libraries
 * [pyperator](https://github.com/baffelli/pyperator) - Simple push-based python workflow framework using asyncio, supporting recursive networks.
 * [pyppl](https://github.com/pwwang/pyppl) - A python lightweight pipeline framework.
 * [pypyr](https://pypyr.io) - Automation task-runner for sequential steps defined in a pipeline yaml, with AWS and Slack plug-ins.
+* [pytask](https://github.com/pytask-dev/pytask) - A workflow management system that facilitates reproducible data analyses.
 * [Pwrake](https://github.com/masa16/Pwrake/) - Parallel workflow extension for Rake.
 * [Qdo](https://bitbucket.org/berkeleylab/qdo) - Lightweight high-throughput queuing system for workflows with many small tasks to perform.
 * [Qsubsec](https://github.com/alastair-droop/qsubsec) - Simple tokenised template system for SGE.
