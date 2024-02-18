@@ -132,6 +132,7 @@ Pipeline frameworks & libraries
 Workflow platforms
 --------------------
 * [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and publishable.
+* [Active Workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 * [Anvi’o](https://anvio.org/) - A community and framework centered around metagenomics, designed to facilitate reproducible exploration and visualization of data.
 * [Apache Iravata](https://airavata.apache.org/) - Framework for executing and managing computational workflows on distributed computing resources.
 * [Arteria](https://arteria-project.github.io/) - Event-driven automation for sequencing centers. Initiates workflows based on events.
