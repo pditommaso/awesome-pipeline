@@ -40,7 +40,6 @@ Pipeline frameworks & libraries
 * [Dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics.
 * [Dbt](https://www.getdbt.com/) - Framework for writing analytics workflows entirely in SQL. The T part of ETL, focuses on analytics engineering.
 * [Dockerflow](https://github.com/googlegenomics/dockerflow) - Workflow runner that uses Dataflow to run a series of tasks in Docker.
-* [Doit](http://pydoit.org/) - Task management & automation tool.
 * [Drake](https://github.com/Factual/drake) - Robust DSL akin to Make, implemented in Clojure.
 * [Drake R package](https://github.com/ropensci/drake) - Reproducibility and high-performance computing with an easy R-focused interface. Unrelated to [Factual's Drake](https://github.com/factual/drake). Succeeded by [Targets](https://github.com/ropensci/targets).
 * [Dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows.
@@ -81,7 +80,7 @@ Pipeline frameworks & libraries
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
 * [Popper](https://github.com/systemslab/popper) - YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.
 * [Porcupine](https://github.com/tweag/porcupine) - Haskell workflow tool to express and compose tasks (optionally cached) whose datasources and sinks are known ahead of time and rebindable, and which can expose arbitrary sets of parameters to the outside world.
-* [Prefect Core](https://docs.prefect.io/) - Python based workflow engine powering Prefect.
+* [Prefect](https://docs.prefect.io/) - Python based workflow engine powering Prefect.
 * [Pydra](https://github.com/nipype/pydra) - Lightweight, DAG-based Python dataflow engine for reproducible and scalable scientific pipelines.
 * [PyFlow](https://github.com/Illumina/pyflow) - Lightweight parallel task engine.
 * [pyperator](https://github.com/baffelli/pyperator) - Simple push-based python workflow framework using asyncio, supporting recursive networks.
@@ -119,7 +118,6 @@ Pipeline frameworks & libraries
 * [Swift](http://swift-lang.org) - Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers.
 * [Targets](https://github.com/ropensci/targets) - Dynamic, function-oriented [Make](https://www.gnu.org/software/make/)-like reproducible pipelines at scale in R.
 * [TaskGraph](https://github.com/natcap/taskgraph) - A library to help manage complicated computational software pipelines consisting of long running individual tasks.
-* [Temporal](https://github.com/temporalio/temporal) - Temporal is a microservice orchestration platform which enables developers to build scalable applications without sacrificing productivity or reliability.
 * [Tibanna](https://github.com/4dn-dcic/tibanna) - Tool that helps you run genomic pipelines on Amazon cloud.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
@@ -222,7 +220,7 @@ Continuous Delivery workflows
 Build automation tools
 ----------------------
 * [Bazel](http://bazel.io/) - Build software just as engineers do at Google.
-* [DoIt](https://github.com/pydoit/doit) - Highly generalized task-management and automation in Python.
+* [doit](https://github.com/pydoit/doit) - Highly generalized task-management and automation in Python.
 * [Gradle](http://gradle.org/) - Unified cross platforms builds.
 * [Just](https://github.com/casey/just) - Command and recipe runner similar to Make, built in Rust.
 * [Make](https://www.gnu.org/software/make/) - The GNU Make build system.
