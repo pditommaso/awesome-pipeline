@@ -110,7 +110,7 @@ Pipeline frameworks & libraries
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stolos](https://github.com/sailthru/stolos) - Directed Acyclic Graph task dependency scheduler that simplify distributed pipelines.
 * [Steppy](https://github.com/minerva-ml/steppy) - lightweight, open-source, Python 3 library for fast and reproducible experimentation.
-* [Stpipe](http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/) - File processing pipelines as a Python library.
+* [Stpipe](https://stpipe.readthedocs.io/) - File processing pipelines as a Python library.
 * [StreamFlow](https://github.com/alpha-unito/streamflow) - Container native workflow management system focused on hybrid workflows.
 * [StreamPipes](https://streampipes.apache.org) - A self-service IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 * [Sundial](https://github.com/gilt/sundial) - Jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling.
