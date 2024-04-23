@@ -12,6 +12,7 @@ Pipeline frameworks & libraries
 * [Airflow](https://github.com/airbnb/airflow) - Python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
 * [Antha](https://www.antha-lang.org/) - High-level language for biology.
+* [Autosubmit](https://autosubmit.readthedocs.io/) - An open source Python experiment and workflow manager used to manage complex workflows on Cloud and HPC platforms. 
 * [AWE](https://github.com/MG-RAST/AWE/) - Workflow and resource management system with CWL support.
 * [Balsam](https://github.com/argonne-lcf/balsam) - Python-based high throughput task and workflow engine. 
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
