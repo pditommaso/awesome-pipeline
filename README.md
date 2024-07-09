@@ -199,6 +199,7 @@ Literate programming (aka interactive notebooks)
 * [Binder](http://mybinder.org/) - Turn a GitHub repo into a collection of interactive notebooks powered by Jupyter and Kubernetes
 * [IPython](https://ipython.org/) A rich architecture for interactive computing.
 * [Jupyter](https://jupyter.org/) Language-agnostic notebook literate programming environment.
+* [Org Mode](https://orgmode.org/) GNU Emacs major mode for computational notebooks, literate programming, and much more.
 * [Pathomx](http://pathomx.org) - Interactive data workflows built on Python.
 * [Polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more). Built by Netflix.
 * [Ploomber](https://github.com/ploomber/ploomber) - Consolidate your notebooks and scripts in a reproducible pipeline using a `pipeline.yaml` file
