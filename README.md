@@ -16,6 +16,7 @@ Pipeline frameworks & libraries
 * [AWE](https://github.com/MG-RAST/AWE/) - Workflow and resource management system with CWL support.
 * [Balsam](https://github.com/argonne-lcf/balsam) - Python-based high throughput task and workflow engine.
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
+* [Beam](https://beam.apache.org/) - Unified programming model for batch and streaming data-parallel processing pipelines.
 * [BioMake](https://github.com/evoldoers/biomake) - GNU-Make-like utility for managing builds and complex workflows.
 * [BioQueue](https://github.com/liyao001/BioQueue) - Explicit framework with web monitoring and resource estimation.
 * [Bioshake](https://github.com/papenfusslab/bioshake) - Haskell DSL built on shake with strong typing and EDAM support.
