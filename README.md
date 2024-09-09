@@ -69,6 +69,7 @@ Pipeline frameworks & libraries
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Maestro](https://github.com/LLNL/maestrowf) - YAML based HPC workflow execution tool.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
+* [makepipe](https://github.com/kinto-b/makepipe) - An R package which provides a set of simple tools for transforming an existing workflow into a self-documenting pipeline with very minimal upfront costs.
 * [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow.
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
 * [Martian](http://martian-lang.org/) - A language and framework for developing and executing complex computational pipelines.
