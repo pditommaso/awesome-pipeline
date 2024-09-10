@@ -50,7 +50,6 @@ Pipeline frameworks & libraries
 * [Flex](https://github.com/druths/flex/) - Language agnostic framework for building flexible data science pipelines (Python/Shell/Gnuplot).
 * [Flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach (R package).
 * [Gc3pie](https://github.com/uzh/gc3pie) - Python libraries and tools for running applications on diverse Grids and clusters.
-* [Geoweaver](https://github.com/ESIPFed/Geoweaver) - In-browser tool for data processing workflows with high-performance server support, featuring code history and workflow orchestration.
 * [Guix Workflow Language](https://guixwl.org/) - A workflow management language extension for GNU Guix.
 * [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
 * [Hamilton](https://github.com/dagworks-inc/hamilton) - A python micro-framework for describing dataflows; runs anywhere python runs.
@@ -149,6 +148,7 @@ Workflow platforms
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Flyte](https://github.com/lyft/flyte) - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
 * [Galaxy](https://galaxyproject.org) - Powerful workflow system which can be used on the command line or with the GUI.
+* [Geoweaver](https://github.com/ESIPFed/Geoweaver) - In-browser tool for data processing workflows with high-performance server support, featuring code history and workflow orchestration.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform) - General-purpose platform with many specialized domain extensions.
 * [NextflowWorkbench](http://workflow.campagnelab.org) - Integrated development environment for Nextflow, Docker and Reusable Workflows.
