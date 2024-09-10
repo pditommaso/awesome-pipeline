@@ -155,6 +155,7 @@ Workflow platforms
 * [Flojoy](https://github.com/flojoy-ai/studio) - Open source visual Python scripting for test, measurement, and robotics control.
 * [Flyte](https://github.com/lyft/flyte) - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
 * [Galaxy](https://galaxyproject.org) - Powerful workflow system which can be used on the command line or with the GUI.
+* [Geoweaver](https://github.com/ESIPFed/Geoweaver) - In-browser tool for data processing workflows with high-performance server support, featuring code history and workflow orchestration.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform) - General-purpose platform with many specialized domain extensions.
 * [Kubeflow](https://www.kubeflow.org/) - Toolkit for making deployments of machine learning workflows on Kubernetes simple, portable and scalable.
