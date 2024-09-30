@@ -83,8 +83,8 @@ Pipeline frameworks & libraries
 * [NiPype](https://github.com/nipy/nipype) - Workflows and interfaces for neuroimaging packages.
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data.
 * [Pachyderm](https://www.pachyderm.io/) - Distributed and reproducible data pipelining and data management, built on the container ecosystem.
-* [Parsl](https://github.com/Parsl/parsl) - Parallel Scripting Library.
-* [PipeFunc](https://github.com/pipefunc/pipefunc) - Lightweight function pipeline (DAG) creation in pure Python for scientific workflows
+* [Parsl](https://parsl-project.org/) - Productive parallel programming, for creating parallel programs composed of Python functions and external components.
+* [PipeFunc](https://github.com/pipefunc/pipefunc) - Lightweight function pipeline (DAG) creation in pure Python for scientific workflows.
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) - Ruby based launcher for complex biological pipelines.
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
 * [Popper](https://github.com/systemslab/popper) - YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.
