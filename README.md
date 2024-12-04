@@ -24,6 +24,7 @@ Pipeline frameworks & libraries
 * [Bistro](https://github.com/pveber/bistro) - Library to build and execute typed scientific workflows.
 * [Bpipe](https://github.com/ssadedin/bpipe/) - Tool for running and managing bioinformatics pipelines.
 * [Briefly](https://github.com/bloomreach/briefly) - Python Meta-programming Library for Job Flow Control.
+* [Burr](https://github.com/dagworks-inc/burr) - Python based lightweight graph (i.e. can do loops and conditional branching, and not just DAGs) orchestrator.
 * [Cluster Flow](http://clusterflow.io) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
 * [Clusterjob](https://github.com/monajemi/clusterjob) - Automated reproducibility, and hassle-free submission of computational jobs to clusters.
 * [Compi](https://www.sing-group.org/compi) - Application framework for portable computational pipelines.
