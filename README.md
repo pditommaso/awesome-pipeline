@@ -171,6 +171,7 @@ Workflow platforms
 * [Piper](https://github.com/creactiviti/piper) - Distributed workflow engine designed to be dead simple.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for machine learning experimentation workflow.
 * [Reana](https://github.com/reanahub/reana) - Platform for reusable research data analyses developed by CERN.
+* [ScientiFlow](https://www.scientiflow.com) - GUI-based Bioinformatics workflow automation through containerized environments.
 * [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
 * [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
