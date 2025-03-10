@@ -27,6 +27,7 @@ Pipeline frameworks & libraries
 * [Burr](https://github.com/dagworks-inc/burr) - Python based lightweight graph (i.e. can do loops and conditional branching, and not just DAGs) orchestrator.
 * [Cluster Flow](http://clusterflow.io) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
 * [Clusterjob](https://github.com/monajemi/clusterjob) - Automated reproducibility, and hassle-free submission of computational jobs to clusters.
+* [Cocoindex](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index.
 * [Compi](https://www.sing-group.org/compi) - Application framework for portable computational pipelines.
 * [Compss](https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar) - Programming model for distributed infrastructures.
 * [Conan2](https://github.com/tburdett/Conan2) - Light-weight workflow management application.
