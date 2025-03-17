@@ -66,7 +66,7 @@ Pipeline frameworks & libraries
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Workflow development tool that helps you build data pipelines.
 * [Kestra](https://github.com/kestra-io/kestra) - Open source data orchestration and scheduling platform with declarative syntax.
 * [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application.
-* [https://github.com/Nike-Inc/koheesio] - Python framework for building efficient data pipelines.
+* [Koheesio](https://github.com/Nike-Inc/koheesio) - Python framework for building efficient data pipelines.
 * [Kronos](https://github.com/jtaghiyar/kronos) - Workflow assembler for cancer genome analytics and informatics.
 * [Kubeflow Pipelines](https://www.kubeflow.org/docs/components/pipelines/) - Framework for building and deploying portable, scalable machine learning workflows using Docker containers and Argo Workflows.
 * [Loom](https://github.com/StanfordBioinformatics/loom) - Tool for running bioinformatics workflows locally or in the cloud.
