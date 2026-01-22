@@ -122,6 +122,7 @@ Pipeline frameworks & libraries
 * [SmartPipeline](https://github.com/giacbrd/SmartPipeline) - A framework for rapid development of robust data pipelines following a simple design pattern.
 * [Snakemake](https://snakemake.readthedocs.io/en/stable) - Tool for running and managing bioinformatics pipelines.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
+* [StarThinker](https://github.com/google/starthinker) - Python/Django/Google Cloud based workflow system created by Google gTech, originally for advertising teams automating data lakes.
 * [Stolos](https://github.com/sailthru/stolos) - Directed Acyclic Graph task dependency scheduler that simplify distributed pipelines.
 * [Steppy](https://github.com/minerva-ml/steppy) - lightweight, open-source, Python 3 library for fast and reproducible experimentation. (This repository has been archived by the owner on Jun 22, 2022.)
 * [Stpipe](https://stpipe.readthedocs.io/) - File processing pipelines as a Python library.
