@@ -141,6 +141,7 @@ Pipeline frameworks & libraries
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
 * [Zenaton](https://zenaton.com) - Workflow engine for orchestrating jobs, data and events across your applications and third party services.
 * [ZenML](https://zenml.io) - Extensible open-source MLOps framework to create reproducible pipelines for data scientists.
+* [ZnTrack](https://github.com/zincware/ZnTrack) - Workflow and Experiment Management in Python based on DVC.
 
 Workflow platforms
 --------------------
