@@ -113,7 +113,7 @@ Pipeline frameworks & libraries
 * [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
 * [Ruigi](https://github.com/kirillseva/ruigi) - Pipeline tool for R, inspired by Luigi.
-* [Rhylthyme](https://github.com/rhylthyme) - Language and runner for real-time scheduling and logistics
+* [Rhylthyme](https://github.com/rhylthyme) - Language and runner for real-time scheduling and logistics.
 * [Sake](http://tonyfischetti.github.io/sake/) - Self-documenting build automation tool.
 * [SciLuigi](https://github.com/pharmbio/sciluigi) - Helper library for writing flexible scientific workflows in Luigi.
 * [SciPipe](http://scipipe.org) - Library for writing Scientific Workflows in Go.
