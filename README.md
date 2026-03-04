@@ -135,6 +135,7 @@ Pipeline frameworks & libraries
 * [TaskGraph](https://github.com/natcap/taskgraph) - A library to help manage complicated computational software pipelines consisting of long running individual tasks.
 * [Tibanna](https://github.com/4dn-dcic/tibanna) - Tool that helps you run genomic pipelines on Amazon cloud.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
+* [Velda](https://github.com/velda-io/velda) - Workflow compute layer that lets any job start instantly, scale across clouds, and avoid dependency drift by design.
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [Yapp](https://github.com/picanumber/yapp) - A C++ parallel pipeline library for stream processing.
 * [Wallaroo](https://www.wallaroolabs.com/) - Framework for streaming data applications and algorithms that react to real-time events.
@@ -176,7 +177,7 @@ Workflow platforms
 * [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 * [Temporal](https://www.temporal.io/) - Highly scalable developer oriented _Workflow as Code_ engine.
-* [Velda](https://velda.io) - Developer friendly workflow engine, define pipelines with simple shell commands.
+* [Velda](https://velda.io) - Workflow compute layer that lets any job start instantly, scale across clouds, and avoid dependency drift by design.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
 * [Windmill](https://github.com/windmill-labs/windmill) - Developer platform and workflow engine to turn scripts into internal tools.
