@@ -136,6 +136,7 @@ Pipeline frameworks & libraries
 * [TaskGraph](https://github.com/natcap/taskgraph) - A library to help manage complicated computational software pipelines consisting of long running individual tasks.
 * [Tibanna](https://github.com/4dn-dcic/tibanna) - Tool that helps you run genomic pipelines on Amazon cloud.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
+* [Velda](https://github.com/velda-io/velda) - Workflow compute layer that lets any job start instantly, scale across clouds, and avoid dependency drift by design.
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [Yapp](https://github.com/picanumber/yapp) - A C++ parallel pipeline library for stream processing.
 * [Wallaroo](https://www.wallaroolabs.com/) - Framework for streaming data applications and algorithms that react to real-time events.
@@ -160,6 +161,7 @@ Workflow platforms
 * [Domino](https://github.com/Tauffer-Consulting/domino) - User friendly and open source visual workflow management platform.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Flojoy](https://github.com/flojoy-ai/studio) - Open source visual Python scripting for test, measurement, and robotics control.
+* [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform.
 * [Flyte](https://github.com/lyft/flyte) - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
 * [Galaxy](https://galaxyproject.org) - Powerful workflow system which can be used on the command line or with the GUI.
 * [Geoweaver](https://github.com/ESIPFed/Geoweaver) - In-browser tool for data processing workflows with high-performance server support, featuring code history and workflow orchestration.
@@ -175,14 +177,14 @@ Workflow platforms
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for machine learning experimentation workflow.
 * [Reana](https://github.com/reanahub/reana) - Platform for reusable research data analyses developed by CERN.
 * [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
-* [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 * [Temporal](https://www.temporal.io/) - Highly scalable developer oriented _Workflow as Code_ engine.
-* [Windmill](https://github.com/windmill-labs/windmill) - Developer platform and workflow engine to turn scripts into internal tools.
+* [Velda](https://velda.io) - Workflow compute layer that lets any job start instantly, scale across clouds, and avoid dependency drift by design.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
-* [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
-* [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform.
+* [Windmill](https://github.com/windmill-labs/windmill) - Developer platform and workflow engine to turn scripts into internal tools.
+* [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
+* [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 
 Workflow languages
 -------------------
