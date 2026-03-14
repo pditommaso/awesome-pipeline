@@ -236,6 +236,7 @@ Extract, transform, load (ETL)
 * [Pathway](https://github.com/pathwaycom/pathway/) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 * [Pentaho Kettle](https://community.hitachivantara.com/s/article/data-integration-kettle) - A plataform that delivers poweful ETL capabilities, using a groundbreaking, metadata-driven approach.
 * [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+* [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for ingestion workflows.
 
 Continuous Delivery workflows
 --------------------------------
