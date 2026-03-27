@@ -230,6 +230,7 @@ Extract, transform, load (ETL)
 * [Bruin](https://github.com/bruin-data/bruin) - Data pipeline framework supporting SQL and Python in the same DAG. Built-in data quality assertions, cross-database lineage, and incremental processing. Targets data warehouses (BigQuery, Snowflake, Postgres, etc.).
 * [Cadence](https://github.com/uber/cadence) Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
 * [Dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based operations in your data warehouse.
+* [Estuary](https://estuary.dev) - Data pipeline platform with a focus on easily building real-time and batch ETL flows with schema inference, schema evolution, and flexible deployment options.
 * [Hevo](https://hevodata.com/integrations/pipeline/) - Hevo is a Fully Automated, No-code Data Pipeline Platform that supports 150+ ready-to-use integrations across Databases, SaaS Applications, Cloud Storage, SDKs, and Streaming Services.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
