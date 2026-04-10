@@ -273,3 +273,4 @@ Related lists
 * [Awesome ETL](https://github.com/pawl/awesome-etl) - Curated list of notable ETL (extract, transform, load) frameworks, libraries and software.
 * [Awesome workflow engines](https://github.com/meirwah/awesome-workflow-engines) - Curated list of awesome open source workflow engines.
 * [Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=pditommaso_awesome-pipeline) - See what developers you follow are starring on GitHub. Free.
