@@ -161,6 +161,7 @@ Workflow platforms
 * [Domino](https://github.com/Tauffer-Consulting/domino) - User friendly and open source visual workflow management platform.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Flojoy](https://github.com/flojoy-ai/studio) - Open source visual Python scripting for test, measurement, and robotics control.
+* [Flowfile](https://flowfile.io) - Open-source local data platform with a visual pipeline builder and a Polars-compatible Python API.
 * [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform.
 * [Flyte](https://github.com/lyft/flyte) - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
 * [Galaxy](https://galaxyproject.org) - Powerful workflow system which can be used on the command line or with the GUI.
