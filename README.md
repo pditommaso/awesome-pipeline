@@ -8,6 +8,7 @@ Pipeline frameworks & libraries
 
 * [ActionChain](http://docs.stackstorm.com/actionchain.html) - A workflow system for simple linear success/failure workflows.
 * [Adage](https://github.com/diana-hep/adage) - Small package to describe workflows that are not completely known at definition time.
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 * [AiiDA](https://github.com/aiidateam/aiida-core) - workflow manager with a strong focus on provenance, performance and extensibility.
 * [Airflow](https://github.com/airbnb/airflow) - Python-based workflow system created by AirBnb.
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
@@ -85,6 +86,7 @@ Pipeline frameworks & libraries
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducible and scalable bioinformatics pipelines.
 * [nFlow](https://github.com/NitorCreations/nFlow) - Embeddable JVM-based workflow engine with high availability, fault tolerance, and support for multiple databases. Additional libraries are provided for visualization and REST API.
 * [NiPype](https://github.com/nipy/nipype) - Workflows and interfaces for neuroimaging packages.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data.
 * [Pachyderm](https://www.pachyderm.io/) - Distributed and reproducible data pipelining and data management, built on the container ecosystem.
 * [Parsl](https://parsl-project.org/) - Productive parallel programming, for creating parallel programs composed of Python functions and external components.
