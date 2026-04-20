@@ -20,6 +20,7 @@ Pipeline frameworks & libraries
 * [Beam](https://beam.apache.org/) - Unified programming model for batch and streaming data-parallel processing pipelines.
 * [BioMake](https://github.com/evoldoers/biomake) - GNU-Make-like utility for managing builds and complex workflows.
 * [BioQueue](https://github.com/liyao001/BioQueue) - Explicit framework with web monitoring and resource estimation.
+* [Bio-pype](https://codeberg.org/bio-pype/bio-pype) - Pipeline framework for bioinformatics focused on readability and modularity.
 * [Bioshake](https://github.com/papenfusslab/bioshake) - Haskell DSL built on shake with strong typing and EDAM support.
 * [Bistro](https://github.com/pveber/bistro) - Library to build and execute typed scientific workflows.
 * [Bpipe](https://github.com/ssadedin/bpipe/) - Tool for running and managing bioinformatics pipelines.
