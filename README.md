@@ -243,6 +243,7 @@ Continuous Delivery workflows
 --------------------------------
 * [Argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
 * [CDS](https://github.com/ovh/cds) - A pipeline based Continuous Delivery Service written in Golang.
+* [FailureMemory](https://github.com/UnguisAI/failurememory) - GitHub Action for recurring CI failure fingerprinting and memory-backed triage.
 
 Build automation tools
 ----------------------
