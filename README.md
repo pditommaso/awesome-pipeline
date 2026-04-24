@@ -243,6 +243,7 @@ Continuous Delivery workflows
 --------------------------------
 * [Argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
 * [CDS](https://github.com/ovh/cds) - A pipeline based Continuous Delivery Service written in Golang.
+* [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard for managing pipeline workflows across hybrid cloud and edge environments. Integrates Argo Workflows, Flux, and 20+ CNCF tools. CNCF Sandbox project.
 
 Build automation tools
 ----------------------
