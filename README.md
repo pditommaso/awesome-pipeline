@@ -266,6 +266,7 @@ Other projects
 * [NiFi](https://nifi.apache.org) - Powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
 * [noWorkflow](https://github.com/gems-uff/noworkflow) - Supporting infrastructure to run scientific experiments without a scientific workflow management system, and still get things like provenance.
 * [Reprozip](https://www.reprozip.org/) - Simplifies the process of creating reproducible experiments from command-line executions.
+* [hpc-slurm-lab](https://github.com/revengator/hpc-slurm-lab) - Minimal modern SLURM cluster on Docker Compose for local HPC and pipeline testing on a laptop. Includes Lmod and EasyBuild preinstalled, runs on Apple Silicon and Linux x86_64.
 
 
 Related lists
