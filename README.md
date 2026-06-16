@@ -202,6 +202,13 @@ Workflow standardization initiatives
 * [Workflow Patterns Library](http://www.workflowpatterns.com/patterns)
 * [ResearchObject.org](http://www.researchobject.org)
 
+Workflow registries
+-------------------
+* [WorkflowHub](https://workflowhub.eu/) - Workflows across research domains and languages
+* [Dockstore](https://dockstore.org/workflows/) - Containers and workflows, in particular life sciences
+* [nf-core](https://nf-co.re/) - Curated Nextflow workflows for life sciences
+* [Galaxy Workflow Library](https://iwc.galaxyproject.org/) (IWC) - Curated Galaxy workflows
+
 ETL & Data orchestration
 ------------------------
 * [DataLad](https://datalad.org) - git and git-annex based data version control system with lightweight provenance capture/re-execution support.
