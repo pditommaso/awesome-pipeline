@@ -256,6 +256,7 @@ Build automation tools
 ----------------------
 * [Bazel](http://bazel.io/) - Build software just as engineers do at Google.
 * [doit](https://github.com/pydoit/doit) - Highly generalized task-management and automation in Python.
+* [Fallout](https://github.com/Fallout-build/Fallout) - Build system for C#/.NET, where the build itself is a C# console app.
 * [Gradle](http://gradle.org/) - Unified cross platforms builds.
 * [Just](https://github.com/casey/just) - Command and recipe runner similar to Make, built in Rust.
 * [Make](https://www.gnu.org/software/make/) - The GNU Make build system.
