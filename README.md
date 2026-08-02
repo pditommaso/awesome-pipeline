@@ -89,6 +89,7 @@ Pipeline frameworks & libraries
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data.
 * [Pachyderm](https://www.pachyderm.io/) - Distributed and reproducible data pipelining and data management, built on the container ecosystem.
 * [Parsl](https://parsl-project.org/) - Productive parallel programming, for creating parallel programs composed of Python functions and external components.
+* [pdChemChain](https://github.com/EBjerrum/pdchemchain) - Build pandas dataframe processing pipelines interactively in notebooks and save for command line resusage. Generally applicable but currently focuses on chemistry (RDKit).
 * [PipeFunc](https://github.com/pipefunc/pipefunc) - Lightweight function pipeline (DAG) creation in pure Python for scientific workflows.
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) - Ruby based launcher for complex biological pipelines.
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
@@ -114,6 +115,7 @@ Pipeline frameworks & libraries
 * [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
 * [Ruigi](https://github.com/kirillseva/ruigi) - Pipeline tool for R, inspired by Luigi.
+* [Rhylthyme](https://github.com/rhylthyme) - Language and runner for real-time scheduling and logistics.
 * [Sake](http://tonyfischetti.github.io/sake/) - Self-documenting build automation tool.
 * [SciLuigi](https://github.com/pharmbio/sciluigi) - Helper library for writing flexible scientific workflows in Luigi.
 * [SciPipe](http://scipipe.org) - Library for writing Scientific Workflows in Go.
@@ -136,9 +138,11 @@ Pipeline frameworks & libraries
 * [TaskGraph](https://github.com/natcap/taskgraph) - A library to help manage complicated computational software pipelines consisting of long running individual tasks.
 * [Tibanna](https://github.com/4dn-dcic/tibanna) - Tool that helps you run genomic pipelines on Amazon cloud.
 * [Toil](https://github.com/BD2KGenomics/toil) - Distributed pipeline workflow manager (mostly for genomics).
+* [Velda](https://github.com/velda-io/velda) - Workflow compute layer that lets any job start instantly, scale across clouds, and avoid dependency drift by design.
 * [Yap](http://opensource.nibr.com/yap/) - Extensible parallel framework, written in Python using OpenMPI libraries.
 * [Yapp](https://github.com/picanumber/yapp) - A C++ parallel pipeline library for stream processing.
 * [Wallaroo](https://www.wallaroolabs.com/) - Framework for streaming data applications and algorithms that react to real-time events.
+* [WESkit](https://gitlab.com/one-touch-pipeline/weskit/documentation) - An open source implementation of a Workflow Execution Service (WES). It tries to be GA4GH-compliant.
 * [WorldMake](http://worldmake.org/) - Easy Collaborative Reproducible Computing.
 * [Zenaton](https://zenaton.com) - Workflow engine for orchestrating jobs, data and events across your applications and third party services.
 * [ZenML](https://zenml.io) - Extensible open-source MLOps framework to create reproducible pipelines for data scientists.
@@ -159,13 +163,13 @@ Workflow platforms
 * [Domino](https://github.com/Tauffer-Consulting/domino) - User friendly and open source visual workflow management platform.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Flojoy](https://github.com/flojoy-ai/studio) - Open source visual Python scripting for test, measurement, and robotics control.
+* [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform.
 * [Flyte](https://github.com/lyft/flyte) - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
 * [Galaxy](https://galaxyproject.org) - Powerful workflow system which can be used on the command line or with the GUI.
 * [Geoweaver](https://github.com/ESIPFed/Geoweaver) - In-browser tool for data processing workflows with high-performance server support, featuring code history and workflow orchestration.
 * [Kepler](https://kepler-project.org/) - Kepler scientific workflow application from University of California.
 * [KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform) - General-purpose platform with many specialized domain extensions.
 * [Kubeflow](https://www.kubeflow.org/) - Toolkit for making deployments of machine learning workflows on Kubernetes simple, portable and scalable.
-* [NextflowWorkbench](http://workflow.campagnelab.org) - Integrated development environment for Nextflow, Docker and Reusable Workflows.
 * [omega|ml DataOps Platform](https://github.com/omegaml/omegaml) - Data & model pipeline deployment for humans - integrated, scalable, extensible.
 * [OpenMOLE](http://www.openmole.org/current/) - Workflow Management System for exploration of models and parameter optimization.
 * [Ophidia](http://ophidia.cmcc.it) - Data-analytics platform with declarative workflows of distributed operations.
@@ -175,14 +179,14 @@ Workflow platforms
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for machine learning experimentation workflow.
 * [Reana](https://github.com/reanahub/reana) - Platform for reusable research data analyses developed by CERN.
 * [Sushi](https://github.com/uzh/sushi) - Supporting User for SHell script Integration.
-* [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 * [Taverna](http://www.taverna.org.uk) - Domain independent workflow system.
 * [Temporal](https://www.temporal.io/) - Highly scalable developer oriented _Workflow as Code_ engine.
-* [Windmill](https://github.com/windmill-labs/windmill) - Developer platform and workflow engine to turn scripts into internal tools.
+* [Velda](https://velda.io) - Workflow compute layer that lets any job start instantly, scale across clouds, and avoid dependency drift by design.
 * [VisTrails](http://www.vistrails.org/) - Scientific workflow and provenance management system.
-* [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
 * [Watchdog](https://github.com/klugem/watchdog) - Workflow management system for the automated and distributed analysis of large-scale experimental data.
-* [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform.
+* [Windmill](https://github.com/windmill-labs/windmill) - Developer platform and workflow engine to turn scripts into internal tools.
+* [Wings](http://www.wings-workflows.org) - Semantic workflow system utilizing Pegasus as execution system.
+* [Yabi](http://ccg.murdoch.edu.au/yabi) - Online research environment for grid, HPC and cloud computing.
 
 Workflow languages
 -------------------
@@ -190,7 +194,6 @@ Workflow languages
 * [Cloudgene Workflow Language](http://cloudgene.uibk.ac.at/developer-guide)
 * [OpenMOLE DSL](http://www.openmole.org/current/Documentation_Language.html)
 * [Workflow Description Language](https://github.com/openwdl/wdl)
-* [Yet Another Workflow Language](http://www.yawlfoundation.org)
 * [Pipelines](https://github.com/calebwin/pipelines)
 
 Workflow standardization initiatives
@@ -201,12 +204,20 @@ Workflow standardization initiatives
 * [Workflow Patterns Library](http://www.workflowpatterns.com/patterns)
 * [ResearchObject.org](http://www.researchobject.org)
 
+Workflow registries
+-------------------
+* [WorkflowHub](https://workflowhub.eu/) - Workflows across research domains and languages
+* [Dockstore](https://dockstore.org/workflows/) - Containers and workflows, in particular life sciences
+* [nf-core](https://nf-co.re/) - Curated Nextflow workflows for life sciences
+* [Galaxy Workflow Library](https://iwc.galaxyproject.org/) (IWC) - Curated Galaxy workflows
+
 ETL & Data orchestration
 ------------------------
 * [DataLad](https://datalad.org) - git and git-annex based data version control system with lightweight provenance capture/re-execution support.
 * [DVC](https://dvc.org) - Data version control system for ML project with lightweight pipeline support.
 * [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
 * [Nessie](https://github.com/projectnessie/nessie) - Provides Git-like capability & version control for Iceberg Tables, Delta Lake Tables & SQL Views.
+* [DataScreenIQ](https://github.com/AppDevIQ/datascreeniq-python) - Real-time data quality screening API that returns PASS / WARN / BLOCK verdicts at the ingest                                    boundary before data enters pipelines or warehouses in milliseconds.Python SDK available.
 
 Literate programming (aka interactive notebooks)
 ---------------------------------------------------
@@ -226,13 +237,16 @@ Literate programming (aka interactive notebooks)
 Extract, transform, load (ETL)
 ------------------------------
 
+* [Bruin](https://github.com/bruin-data/bruin) - Data pipeline framework supporting SQL and Python in the same DAG. Built-in data quality assertions, cross-database lineage, and incremental processing. Targets data warehouses (BigQuery, Snowflake, Postgres, etc.).
 * [Cadence](https://github.com/uber/cadence) Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
 * [Dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based operations in your data warehouse.
 * [Hevo](https://hevodata.com/integrations/pipeline/) - Hevo is a Fully Automated, No-code Data Pipeline Platform that supports 150+ ready-to-use integrations across Databases, SaaS Applications, Cloud Storage, SDKs, and Streaming Services.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
+* [Pathway](https://github.com/pathwaycom/pathway/) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 * [Pentaho Kettle](https://community.hitachivantara.com/s/article/data-integration-kettle) - A plataform that delivers poweful ETL capabilities, using a groundbreaking, metadata-driven approach.
 * [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+* [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for ingestion workflows.
 
 Continuous Delivery workflows
 --------------------------------
