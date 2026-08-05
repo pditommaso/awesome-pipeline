@@ -124,6 +124,7 @@ Pipeline frameworks & libraries
 * [Seqtools](https://github.com/nlgranger/SeqTools) - Python library for lazy evaluation of pipelined transformations on indexable containers.
 * [SmartPipeline](https://github.com/giacbrd/SmartPipeline) - A framework for rapid development of robust data pipelines following a simple design pattern.
 * [Snakemake](https://snakemake.readthedocs.io/en/stable) - Tool for running and managing bioinformatics pipelines.
+* [sitige-harness](https://github.com/lfzds4399-cpu/sitige-harness) - Composable agents / validators / pipelines runtime; async-native, Prometheus + OpenTelemetry, FastAPI surface.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) - Based on the Workflow Patterns initiative and implemented in Python.
 * [Stolos](https://github.com/sailthru/stolos) - Directed Acyclic Graph task dependency scheduler that simplify distributed pipelines.
 * [Steppy](https://github.com/minerva-ml/steppy) - lightweight, open-source, Python 3 library for fast and reproducible experimentation. (This repository has been archived by the owner on Jun 22, 2022.)
