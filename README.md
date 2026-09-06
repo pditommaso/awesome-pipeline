@@ -111,6 +111,7 @@ Pipeline frameworks & libraries
 * [Redun](https://github.com/insitro/redun) - Yet another redundant workflow engine.
 * [Reflow](https://github.com/grailbio/reflow) - Language and runtime for distributed, incremental data processing in the cloud.
 * [Remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R.
+* [Renart](https://github.com/renart-data/renart) - Local-first IDE for authoring and running SQL and Python data pipelines stored in Git.
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - Wrapper for the creation of Makefiles, enabling massive parallelization.
 * [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
