@@ -82,6 +82,7 @@ Pipeline frameworks & libraries
 * [MD Studio](https://github.com/MD-Studio/MDStudio) - Microservice based workflow engine.
 * [MetaFlow](https://metaflow.org/) - Open-sourced framework from Netflix, for DAG generation for data scientists. Python and R API's.
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
+* [MLPipelineHolder](https://github.com/XiaokaiCui/MLPipelineHolder) - Lightweight Python framework for reproducible machine-learning experimentation in Jupyter notebooks.
 * [Moa](https://github.com/mfiers/Moa) - Lightweight workflows in bioinformatics.
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducible and scalable bioinformatics pipelines.
 * [nFlow](https://github.com/NitorCreations/nFlow) - Embeddable JVM-based workflow engine with high availability, fault tolerance, and support for multiple databases. Additional libraries are provided for visualization and REST API.
