@@ -66,7 +66,7 @@ Pipeline frameworks & libraries
 * [Kedro](https://github.com/quantumblacklabs/kedro) - Workflow development tool that helps you build data pipelines.
 * [Kestra](https://github.com/kestra-io/kestra) - Open source data orchestration and scheduling platform with declarative syntax.
 * [Ketrew](https://github.com/hammerlab/ketrew) - Embedded DSL in the OCAML language alongside a client-server management application.
-* [https://github.com/Nike-Inc/koheesio] - Python framework for building efficient data pipelines.
+* [Koheesio](https://github.com/Nike-Inc/koheesio) - Python framework for building efficient data pipelines.
 * [Kronos](https://github.com/jtaghiyar/kronos) - Workflow assembler for cancer genome analytics and informatics.
 * [Kubeflow Pipelines](https://www.kubeflow.org/docs/components/pipelines/) - Framework for building and deploying portable, scalable machine learning workflows using Docker containers and Argo Workflows.
 * [Loom](https://github.com/StanfordBioinformatics/loom) - Tool for running bioinformatics workflows locally or in the cloud.
@@ -74,6 +74,7 @@ Pipeline frameworks & libraries
 * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Maestro](https://github.com/LLNL/maestrowf) - YAML based HPC workflow execution tool.
 * [Makeflow](http://ccl.cse.nd.edu/software/makeflow/) - Workflow engine for executing large complex workflows on clusters.
+* [Makeit](https://github.com/arni-magnusson/makeit) - Run R scripts if needed, based on last modified time.
 * [makepipe](https://github.com/kinto-b/makepipe) - An R package which provides a set of simple tools for transforming an existing workflow into a self-documenting pipeline with very minimal upfront costs.
 * [Mara](https://github.com/mara/data-integration) -  A lightweight, opinionated ETL framework, halfway between plain scripts and Apache Airflow.
 * [Mario](https://github.com/intentmedia/mario) - Scala library for defining data pipelines.
@@ -82,6 +83,7 @@ Pipeline frameworks & libraries
 * [MetaFlow](https://metaflow.org/) - Open-sourced framework from Netflix, for DAG generation for data scientists. Python and R API's.
   * [metrics-petri](https://github.com/rotsl/metrics-petri) - Python pipeline for Petri dish colony segmentation and morphometric analysis of magnaporthe fungal growth experiments.
 * [Mistral](https://github.com/openstack/mistral) - Python based workflow engine by the Open Stack project.
+* [MLPipelineHolder](https://github.com/XiaokaiCui/MLPipelineHolder) - Lightweight Python framework for reproducible machine-learning experimentation in Jupyter notebooks.
 * [Moa](https://github.com/mfiers/Moa) - Lightweight workflows in bioinformatics.
 * [Nextflow](http://www.nextflow.io) - Flow-based computational toolkit for reproducible and scalable bioinformatics pipelines.
 * [nFlow](https://github.com/NitorCreations/nFlow) - Embeddable JVM-based workflow engine with high availability, fault tolerance, and support for multiple databases. Additional libraries are provided for visualization and REST API.
@@ -89,6 +91,7 @@ Pipeline frameworks & libraries
 * [OpenGE](https://github.com/adaptivegenome/openge) - Accelerated framework for manipulating and interpreting high-throughput sequencing data.
 * [Pachyderm](https://www.pachyderm.io/) - Distributed and reproducible data pipelining and data management, built on the container ecosystem.
 * [Parsl](https://parsl-project.org/) - Productive parallel programming, for creating parallel programs composed of Python functions and external components.
+* [pdChemChain](https://github.com/EBjerrum/pdchemchain) - Build pandas dataframe processing pipelines interactively in notebooks and save for command line resusage. Generally applicable but currently focuses on chemistry (RDKit).
 * [PipeFunc](https://github.com/pipefunc/pipefunc) - Lightweight function pipeline (DAG) creation in pure Python for scientific workflows.
 * [PipEngine](https://github.com/fstrozzi/bioruby-pipengine) - Ruby based launcher for complex biological pipelines.
 * [Pinball](https://github.com/pinterest/pinball) - Python based workflow engine by Pinterest.
@@ -110,6 +113,7 @@ Pipeline frameworks & libraries
 * [Redun](https://github.com/insitro/redun) - Yet another redundant workflow engine.
 * [Reflow](https://github.com/grailbio/reflow) - Language and runtime for distributed, incremental data processing in the cloud.
 * [Remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R.
+* [Renart](https://github.com/renart-data/renart) - Local-first IDE for authoring and running SQL and Python data pipelines stored in Git.
 * [Rmake](http://physiology.med.cornell.edu/faculty/mason/lab/r-make/) - Wrapper for the creation of Makefiles, enabling massive parallelization.
 * [Rubra](https://github.com/bjpop/rubra) - Pipeline system for bioinformatics workflows.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for Python.
@@ -162,6 +166,7 @@ Workflow platforms
 * [Domino](https://github.com/Tauffer-Consulting/domino) - User friendly and open source visual workflow management platform.
 * [Fireworks](https://github.com/materialsproject/fireworks) - Centralized workflow server for dynamic workflows of high-throughput computations.
 * [Flojoy](https://github.com/flojoy-ai/studio) - Open source visual Python scripting for test, measurement, and robotics control.
+* [Flowfile](https://flowfile.io) - Open-source local data platform with a visual pipeline builder and a Polars-compatible Python API.
 * [FlowHub](https://www.flowhub.com.cn) - FlowHub is a new workflow cloud platform.
 * [Flyte](https://github.com/lyft/flyte) - Container-native, type-safe workflow and pipelines platform for large scale processing and ML.
 * [Galaxy](https://galaxyproject.org) - Powerful workflow system which can be used on the command line or with the GUI.
@@ -236,16 +241,21 @@ Literate programming (aka interactive notebooks)
 Extract, transform, load (ETL)
 ------------------------------
 
+* [adbcBridge](https://github.com/singhpratech/adbcbridge) - Driver for ADBC, Apache Arrow's database connectivity API, that runs on top of any ODBC driver, so databases shipping ODBC but no Arrow driver (Db2, Informix, Vertica, Firebird, Ingres and more) return columnar Arrow batches and take bulk loads. One C library with Python, Rust, Go, Java and C# bindings; verified against 53 databases on Linux, 45 on macOS and 48 on Windows.
 * [Bruin](https://github.com/bruin-data/bruin) - Data pipeline framework supporting SQL and Python in the same DAG. Built-in data quality assertions, cross-database lineage, and incremental processing. Targets data warehouses (BigQuery, Snowflake, Postgres, etc.).
 * [Cadence](https://github.com/uber/cadence) Distributed, scalable, durable, and highly available orchestration engine developed by Uber.
 * [Dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based operations in your data warehouse.
+* [Datanika](https://datanika.io) - Self-hosted ELT platform combining dlt extract-and-load, dbt-core transforms and scheduling in one UI.
 * [Hevo](https://hevodata.com/integrations/pipeline/) - Hevo is a Fully Automated, No-code Data Pipeline Platform that supports 150+ ready-to-use integrations across Databases, SaaS Applications, Cloud Storage, SDKs, and Streaming Services.
+* [Hydra ETL](https://github.com/bejaouibechir/Hydra) - Declarative ETL engine where pipelines are YAML files validated before they run.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
+- [Omniload](https://github.com/panodata/omniload) - Polyglot data loader based on dlt for ETL, warehousing and more. Copy data between any source and any destination. Supports 140+ source/destination adapters. Fast transformations based on Polars expressions.
 * [Pathway](https://github.com/pathwaycom/pathway/) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 * [Pentaho Kettle](https://community.hitachivantara.com/s/article/data-integration-kettle) - A plataform that delivers poweful ETL capabilities, using a groundbreaking, metadata-driven approach.
 * [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for ingestion workflows.
+* [OLake](https://github.com/datazip-inc/olake) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
 
 Continuous Delivery workflows
 --------------------------------
