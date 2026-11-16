@@ -261,6 +261,7 @@ Continuous Delivery workflows
 --------------------------------
 * [Argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
 * [CDS](https://github.com/ovh/cds) - A pipeline based Continuous Delivery Service written in Golang.
+* [Kodama](https://github.com/optimiware/kodama) - API-first, multi-tenant software factory in Go running sequential container pipelines and AI coding agents on rootless Podman 5 or Kubernetes Jobs, with PostgreSQL RLS, NATS JetStream, REST/MCP edges, and role inbox approvals.
 
 Build automation tools
 ----------------------
