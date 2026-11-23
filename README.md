@@ -59,6 +59,7 @@ Pipeline frameworks & libraries
 * [Gwf](https://github.com/mailund/gwf) - Make-like utility for submitting workflows via qsub.
 * [Hamilton](https://github.com/dagworks-inc/hamilton) - A python micro-framework for describing dataflows; runs anywhere python runs.
 * [Hera](https://github.com/argoproj-labs/hera) - Hera is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone! Hera abstracts away low-level setup details while still maintaining a consistent vocabulary with Argo.
+* [Horus Runtime](https://github.com/temple-compute/horus-runtime) - Reproducible scientific workflows in YAML or Python that run on a laptop, a remote machine or an HPC cluster, with artifact tracking and incremental re-runs.
 * [HyperLoom](https://github.com/It4innovations/HyperLoom) - Platform for defining and executing workflow pipelines in large-scale distributed environments.
 * [HyperQueue](https://github.com/It4innovations/hyperqueue) - HPC-focused task scheduler that automatically assigns tasks to Slurm/PBS allocations and submits them for the user.
 * [Joblib](https://joblib.readthedocs.io/en/latest/) - Set of tools to provide lightweight pipelining in Python.
